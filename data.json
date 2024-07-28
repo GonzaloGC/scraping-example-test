@@ -1,0 +1,4477 @@
+[
+  {
+    "sku": "",
+    "nombre": "",
+    "precio": ""
+  },
+  {
+    "sku": "",
+    "nombre": "",
+    "precio": ""
+  },
+  {
+    "sku": "Lista",
+    "nombre": "actualizada el 27 de Julio de 2024",
+    "precio": "21:35"
+  },
+  {
+    "sku": "Listado",
+    "nombre": "de Productos de Segunda",
+    "precio": "Selección"
+  },
+  {
+    "sku": "SKUMarcaNombreStockPrecio",
+    "nombre": "",
+    "precio": "Unitario"
+  },
+  {
+    "sku": "c/Iva",
+    "nombre": "",
+    "precio": "c/Iva"
+  },
+  {
+    "sku": "(X)",
+    "nombre": "Dispositivos",
+    "precio": "Portátiles"
+  },
+  {
+    "sku": "88825907MicrolabReproductor",
+    "nombre": "MP3 8GB",
+    "precio": "Blanco17.190"
+  },
+  {
+    "sku": "88825906MicrolabReproductor",
+    "nombre": "MP3 8GB",
+    "precio": "Negro57.190"
+  },
+  {
+    "sku": "88818215SonyReproductor",
+    "nombre": "MP3 NWZ-B183 4GB",
+    "precio": "Negro124.090"
+  },
+  {
+    "sku": "Accesorios",
+    "nombre": "",
+    "precio": "Celulares"
+  },
+  {
+    "sku": "88834147SpektraAdaptador",
+    "nombre": "Lightning a Lightning + Jack 3.5mm",
+    "precio": "Spektra"
+  },
+  {
+    "sku": "Plateado",
+    "nombre": "",
+    "precio": "Plateado"
+  },
+  {
+    "sku": "22.690",
+    "nombre": "",
+    "precio": "22.690"
+  },
+  {
+    "sku": "88841151ArgomBanda",
+    "nombre": "de Brazo para Celular",
+    "precio": "Argom11.794"
+  },
+  {
+    "sku": "88842400MotomoFunda",
+    "nombre": "Protectora de Silicona AIRTAG",
+    "precio": "Blanco13.990"
+  },
+  {
+    "sku": "Accesorios",
+    "nombre": "",
+    "precio": "Consolas"
+  },
+  {
+    "sku": "88833450Collective",
+    "nombre": "MindsSistema mando con botones compatible con controles de",
+    "precio": "PS4"
+  },
+  {
+    "sku": "para",
+    "nombre": "",
+    "precio": "F.P.S"
+  },
+  {
+    "sku": "122.990",
+    "nombre": "",
+    "precio": "122.990"
+  },
+  {
+    "sku": "Accesorios",
+    "nombre": "Corte y",
+    "precio": "Estampado"
+  },
+  {
+    "sku": "88832084SilhouetteBase",
+    "nombre": "de Corte para Cameo 3 - Cameo 4 (30,5cm x",
+    "precio": "61cm)110.990"
+  },
+  {
+    "sku": "88823844SilhouetteBase",
+    "nombre": "de corte para Cameo 3 - Cameo 4 (30,5cm x",
+    "precio": "30,5cm)17.990"
+  },
+  {
+    "sku": "88848226CricutPatrones",
+    "nombre": "de Hojas de Transferencia de Tinta Infusible",
+    "precio": "Ink"
+  },
+  {
+    "sku": "Verde",
+    "nombre": "Acuarela 11,4 x 30,5 cm",
+    "precio": "(2un)"
+  },
+  {
+    "sku": "12.694",
+    "nombre": "",
+    "precio": "12.694"
+  },
+  {
+    "sku": "Accesorios",
+    "nombre": "Cámaras de",
+    "precio": "Acción"
+  },
+  {
+    "sku": "88831237GoProFunda",
+    "nombre": "y Correa",
+    "precio": "Negra29.190"
+  },
+  {
+    "sku": "88827764ManfrottoLuz",
+    "nombre": "Led Off",
+    "precio": "Road129.094"
+  },
+  {
+    "sku": "88819872GoProSmart",
+    "nombre": "",
+    "precio": "Remote150.990"
+  },
+  {
+    "sku": "Accesorios",
+    "nombre": "",
+    "precio": "Desktop"
+  },
+  {
+    "sku": "88845434SilverstoneAdaptador",
+    "nombre": "Puerto M.2 a PCI-E x4",
+    "precio": "RGB114.090"
+  },
+  {
+    "sku": "Accesorios",
+    "nombre": "",
+    "precio": "Electrónica"
+  },
+  {
+    "sku": "88827701AdafruitBases",
+    "nombre": "de pines para Feather - 12-pin y",
+    "precio": "16-pin1294"
+  },
+  {
+    "sku": "Accesorios",
+    "nombre": "Impresoras",
+    "precio": "3D"
+  },
+  {
+    "sku": "88835801CrealitySuperficie",
+    "nombre": "de impresión magnética para impresora",
+    "precio": "CR-10S"
+  },
+  {
+    "sku": "Pro",
+    "nombre": "",
+    "precio": "Pro"
+  },
+  {
+    "sku": "13.090",
+    "nombre": "",
+    "precio": "13.090"
+  },
+  {
+    "sku": "Accesorios",
+    "nombre": "",
+    "precio": "Notebooks"
+  },
+  {
+    "sku": "88836349AppleAdaptador",
+    "nombre": "Lightning a",
+    "precio": "USB325.890"
+  },
+  {
+    "sku": "88813802AppleAdaptador",
+    "nombre": "de Enchufes para",
+    "precio": "Viajes114.190"
+  },
+  {
+    "sku": "88848592AppleApple",
+    "nombre": "MagSafe to MagSafe 2",
+    "precio": "Converter14.590"
+  },
+  {
+    "sku": "88837464AppleCargador",
+    "nombre": "MagSafe 2 (para MacBook Pro con pantalla",
+    "precio": "Retina"
+  },
+  {
+    "sku": "de",
+    "nombre": "13\")",
+    "precio": "60W"
+  },
+  {
+    "sku": "444.090",
+    "nombre": "",
+    "precio": "444.090"
+  },
+  {
+    "sku": "88837465AppleCargador",
+    "nombre": "MagSafe 2 de 85 W (para MacBook Pro",
+    "precio": "con"
+  },
+  {
+    "sku": "pantalla",
+    "nombre": "Retina de",
+    "precio": "15\")"
+  },
+  {
+    "sku": "144.090",
+    "nombre": "",
+    "precio": "144.090"
+  },
+  {
+    "sku": "88837463AppleCargador",
+    "nombre": "MagSafe 2 para MacBook Air",
+    "precio": "45W644.090"
+  },
+  {
+    "sku": "88837462AppleCargador",
+    "nombre": "MagSafe para Mac",
+    "precio": "85W238.290"
+  },
+  {
+    "sku": "Accesorios",
+    "nombre": "",
+    "precio": "Reflex"
+  },
+  {
+    "sku": "88831482BlackRapidCorrea",
+    "nombre": "Para Hombro",
+    "precio": "Breathe133.990"
+  },
+  {
+    "sku": "Accesorios",
+    "nombre": "Tabletas",
+    "precio": "Digitalizadoras"
+  },
+  {
+    "sku": "88828576WacomFunda",
+    "nombre": "Grande",
+    "precio": "ACK52702111.990"
+  },
+  {
+    "sku": "88836719HuionGuante",
+    "nombre": "de Dibujo",
+    "precio": "GL20015.190"
+  },
+  {
+    "sku": "Accesorios",
+    "nombre": "de",
+    "precio": "Drones"
+  },
+  {
+    "sku": "88819937DJIInspire",
+    "nombre": "1-",
+    "precio": "H*lices15.190"
+  },
+  {
+    "sku": "88819947SymaX5C",
+    "nombre": "Quadricoptero -",
+    "precio": "Bater*a12.090"
+  },
+  {
+    "sku": "88819944SymaX5C",
+    "nombre": "Quadricoptero -",
+    "precio": "H*lices111.090"
+  },
+  {
+    "sku": "88819945SymaX5C",
+    "nombre": "Quadricoptero - Protecci*n",
+    "precio": "H*lice2671.090"
+  },
+  {
+    "sku": "88819946SymaX5C",
+    "nombre": "Quadricoptero - Protecci*n de",
+    "precio": "Aterrizaje11.090"
+  },
+  {
+    "sku": "Accesorios",
+    "nombre": "de",
+    "precio": "Impresoras"
+  },
+  {
+    "sku": "88827700BrotherBandeja",
+    "nombre": "inferior de 500 hojas",
+    "precio": "LT-3202790"
+  },
+  {
+    "sku": "Página",
+    "nombre": "",
+    "precio": "1"
+  },
+  {
+    "sku": "",
+    "nombre": "",
+    "precio": ""
+  },
+  {
+    "sku": "Lista",
+    "nombre": "actualizada el 27 de Julio de 2024",
+    "precio": "21:35"
+  },
+  {
+    "sku": "Listado",
+    "nombre": "de Productos de Segunda",
+    "precio": "Selección"
+  },
+  {
+    "sku": "SKUMarcaNombreStockPrecio",
+    "nombre": "",
+    "precio": "Unitario"
+  },
+  {
+    "sku": "c/Iva",
+    "nombre": "",
+    "precio": "c/Iva"
+  },
+  {
+    "sku": "88825216BrotherBandeja",
+    "nombre": "inferior de 520 hojas",
+    "precio": "LT-6505180.990"
+  },
+  {
+    "sku": "88815691EpsonBateria",
+    "nombre": "Externa Picturemate",
+    "precio": "260126.394"
+  },
+  {
+    "sku": "Aire",
+    "nombre": "Acondicionado",
+    "precio": "Portátil"
+  },
+  {
+    "sku": "88845508WirmelAire",
+    "nombre": "Acondicionado Portátil 9.000 Btu",
+    "precio": "Frío/Calor293.990"
+  },
+  {
+    "sku": "All-in-One",
+    "nombre": "",
+    "precio": "All-in-One"
+  },
+  {
+    "sku": "88841948LenovoAll",
+    "nombre": "In One IdeaCentre A340 23.8\" FullHD Intel Celeron",
+    "precio": "J4025"
+  },
+  {
+    "sku": "4GB",
+    "nombre": "1TB Windows",
+    "precio": "10"
+  },
+  {
+    "sku": "1159.990",
+    "nombre": "",
+    "precio": "1159.990"
+  },
+  {
+    "sku": "88837263HPAll",
+    "nombre": "in One 19,5\" HD  Intel  Celeron J3060 4GB 1TB ",
+    "precio": "Windows"
+  },
+  {
+    "sku": "10",
+    "nombre": "",
+    "precio": "20-c421la"
+  },
+  {
+    "sku": "1159.990",
+    "nombre": "",
+    "precio": "1159.990"
+  },
+  {
+    "sku": "88841394HPAll",
+    "nombre": "in One 200 21,5 G4 Pentium FullHD  J5040 4GB",
+    "precio": "1TB"
+  },
+  {
+    "sku": "FreeDos",
+    "nombre": "",
+    "precio": "FreeDos"
+  },
+  {
+    "sku": "1139.990",
+    "nombre": "",
+    "precio": "1139.990"
+  },
+  {
+    "sku": "88839112DellAll",
+    "nombre": "in One 23.8\" Full HD Intel i5-1135G7 12GB 1TB +",
+    "precio": "256GB"
+  },
+  {
+    "sku": "SSD",
+    "nombre": "Touch Windows 10 Home",
+    "precio": "Silver"
+  },
+  {
+    "sku": "1623.290",
+    "nombre": "",
+    "precio": "1623.290"
+  },
+  {
+    "sku": "88848043GearAll",
+    "nombre": "in One A2769 27\" FullHD Intel Celeron N4000 4GB",
+    "precio": "240GB"
+  },
+  {
+    "sku": "SSD",
+    "nombre": "",
+    "precio": "SSD"
+  },
+  {
+    "sku": "26129.990",
+    "nombre": "",
+    "precio": "26129.990"
+  },
+  {
+    "sku": "88847852LenovoAll",
+    "nombre": "in One IdeaCentre 3 23.8\" FullHD Intel i3-1115G4",
+    "precio": "8GB"
+  },
+  {
+    "sku": "512GB",
+    "nombre": "SSD Windows",
+    "precio": "11"
+  },
+  {
+    "sku": "1333.990",
+    "nombre": "",
+    "precio": "1333.990"
+  },
+  {
+    "sku": "88835806LenovoAll",
+    "nombre": "in One IdeaCentre A340 23,8\" FullHD Intel Core",
+    "precio": "i5-10210U"
+  },
+  {
+    "sku": "4GB",
+    "nombre": "1TB+256GB SSD Windows 10",
+    "precio": "A340-24IWL"
+  },
+  {
+    "sku": "1403.990",
+    "nombre": "",
+    "precio": "1403.990"
+  },
+  {
+    "sku": "88839937LenovoAll",
+    "nombre": "in One Ideacentre 3  23.8\" FHD Intel i7-1065G7",
+    "precio": "8GB"
+  },
+  {
+    "sku": "512GB",
+    "nombre": "SSD Windows",
+    "precio": "10"
+  },
+  {
+    "sku": "1555.290",
+    "nombre": "",
+    "precio": "1555.290"
+  },
+  {
+    "sku": "88837842LenovoAll",
+    "nombre": "in One Ideacentre 3 21,5\" FullHD AMD Athlon 3050U",
+    "precio": "4GB"
+  },
+  {
+    "sku": "1TB",
+    "nombre": "Windows",
+    "precio": "10"
+  },
+  {
+    "sku": "2124.790",
+    "nombre": "",
+    "precio": "2124.790"
+  },
+  {
+    "sku": "88841949LenovoAll",
+    "nombre": "in One Ideacentre A340 23.8\" FullHD Intel Pentium",
+    "precio": "J5005"
+  },
+  {
+    "sku": "4GB",
+    "nombre": "1TB Windows",
+    "precio": "10"
+  },
+  {
+    "sku": "6189.990",
+    "nombre": "",
+    "precio": "6189.990"
+  },
+  {
+    "sku": "88847002DellAll",
+    "nombre": "in One Inspiron AIO 5410 23.8\" FullHD Intel",
+    "precio": "i7-1255U"
+  },
+  {
+    "sku": "16GB",
+    "nombre": "1TB HDD + 256GB SSD GeForce MX550",
+    "precio": "2GB"
+  },
+  {
+    "sku": "Windows",
+    "nombre": "",
+    "precio": "11"
+  },
+  {
+    "sku": "1860.814",
+    "nombre": "",
+    "precio": "1860.814"
+  },
+  {
+    "sku": "88847518DellAll",
+    "nombre": "in One Inspiron AIO 5410 23.8\" FullHD Intel",
+    "precio": "i7-1255U"
+  },
+  {
+    "sku": "16GB",
+    "nombre": "256GB + 1TB HDD+SSD  Windows",
+    "precio": "11"
+  },
+  {
+    "sku": "1778.990",
+    "nombre": "",
+    "precio": "1778.990"
+  },
+  {
+    "sku": "88837264AsusAll",
+    "nombre": "in One Vivo 21,5\" FullHD Intel Celeron J4005 4GB",
+    "precio": "1TB"
+  },
+  {
+    "sku": "Windows",
+    "nombre": "10 ",
+    "precio": "V222GAK-WA136T"
+  },
+  {
+    "sku": "3159.990",
+    "nombre": "",
+    "precio": "3159.990"
+  },
+  {
+    "sku": "88837759AsusAll",
+    "nombre": "in One Vivo 21.5\" FullHD Intel Pentium Gold 6405U",
+    "precio": "4GB"
+  },
+  {
+    "sku": "1TB",
+    "nombre": " Windows 10",
+    "precio": "V222FAK-BA083T"
+  },
+  {
+    "sku": "1233.590",
+    "nombre": "",
+    "precio": "1233.590"
+  },
+  {
+    "sku": "88833435AsusAll",
+    "nombre": "in One Vivo 21.5\" FullHD Pentium Gold 4417U 4GB",
+    "precio": "1TB"
+  },
+  {
+    "sku": "Windows",
+    "nombre": "10",
+    "precio": "V222UAK-BA266T"
+  },
+  {
+    "sku": "3189.990",
+    "nombre": "",
+    "precio": "3189.990"
+  },
+  {
+    "sku": "88839266AsusAll",
+    "nombre": "in One Vivo AiO 24 23.8\" Full HD Intel Core",
+    "precio": "i3-1115G4"
+  },
+  {
+    "sku": "4GB",
+    "nombre": "1TB + 128GB SSD Windows 10",
+    "precio": "V241EAK-BA035T"
+  },
+  {
+    "sku": "1451.194",
+    "nombre": "",
+    "precio": "1451.194"
+  },
+  {
+    "sku": "88841665AppleiMac",
+    "nombre": "24\" Retina 4,5K (Chip M1 CPU 8 núcleos GPU",
+    "precio": "8"
+  },
+  {
+    "sku": "núcleos,",
+    "nombre": "8GB RAM, 256GB SSD) -",
+    "precio": "Rosa"
+  },
+  {
+    "sku": "1719.990",
+    "nombre": "",
+    "precio": "1719.990"
+  },
+  {
+    "sku": "88838193AppleiMac",
+    "nombre": "27\" Retina 5K (Intel Core i5 3,1 GHz, 8GB RAM,",
+    "precio": "256GB"
+  },
+  {
+    "sku": "SSD,",
+    "nombre": "Radeon Pro",
+    "precio": "5300)"
+  },
+  {
+    "sku": "1759.990",
+    "nombre": "",
+    "precio": "1759.990"
+  },
+  {
+    "sku": "Antenas",
+    "nombre": "",
+    "precio": "Antenas"
+  },
+  {
+    "sku": "88842660Sanny",
+    "nombre": "TelecomAntena MIMO Omni",
+    "precio": "STO5G13M2-PRO131.194"
+  },
+  {
+    "sku": "88842649Sanny",
+    "nombre": "TelecomAntena Omni",
+    "precio": "STO0727G10-PRO122.590"
+  },
+  {
+    "sku": "Asistentes",
+    "nombre": "de",
+    "precio": "Voz"
+  },
+  {
+    "sku": "88831459EchoAsistente",
+    "nombre": "de voz con pantalla Wifi Alexa Echo",
+    "precio": "Show1125.290"
+  },
+  {
+    "sku": "88832090IHomeParlante",
+    "nombre": "para Alexa Echo Dot (2nd",
+    "precio": "Gen)126.890"
+  },
+  {
+    "sku": "Aspiradoras",
+    "nombre": "Robot &",
+    "precio": "Limpieza"
+  },
+  {
+    "sku": "88841495OsojiRobot",
+    "nombre": "limpia vidrios",
+    "precio": "Mado1140.690"
+  },
+  {
+    "sku": "Audio",
+    "nombre": "All in",
+    "precio": "One"
+  },
+  {
+    "sku": "88828263Master",
+    "nombre": "GParlante Karaoke",
+    "precio": "SPBT12242.990"
+  },
+  {
+    "sku": "Audífonos",
+    "nombre": "",
+    "precio": "Call-Center"
+  },
+  {
+    "sku": "8883608GeniusAudifonos",
+    "nombre": "",
+    "precio": "HS-05A11.434"
+  },
+  {
+    "sku": "88848410GeniusAudífono",
+    "nombre": "HS-04S AUX",
+    "precio": "3,524.590"
+  },
+  {
+    "sku": "Página",
+    "nombre": "",
+    "precio": "2"
+  },
+  {
+    "sku": "",
+    "nombre": "",
+    "precio": ""
+  },
+  {
+    "sku": "Lista",
+    "nombre": "actualizada el 27 de Julio de 2024",
+    "precio": "21:35"
+  },
+  {
+    "sku": "Listado",
+    "nombre": "de Productos de Segunda",
+    "precio": "Selección"
+  },
+  {
+    "sku": "SKUMarcaNombreStockPrecio",
+    "nombre": "",
+    "precio": "Unitario"
+  },
+  {
+    "sku": "c/Iva",
+    "nombre": "",
+    "precio": "c/Iva"
+  },
+  {
+    "sku": "88847643GeniusAudífono",
+    "nombre": "Headset Genius",
+    "precio": "HS-230U16.534"
+  },
+  {
+    "sku": "Audífonos",
+    "nombre": "",
+    "precio": "Gamer"
+  },
+  {
+    "sku": "88838677LvlupAud*fono",
+    "nombre": "Gamer LU731",
+    "precio": "Negro/Azul16.790"
+  },
+  {
+    "sku": "Audífonos",
+    "nombre": "",
+    "precio": "Headset"
+  },
+  {
+    "sku": "88823382SonyAud*fono",
+    "nombre": "MDR-ZX110AP",
+    "precio": "Negro67.194"
+  },
+  {
+    "sku": "88812326PanasonicAudifonos",
+    "nombre": "HT161",
+    "precio": "Black14.490"
+  },
+  {
+    "sku": "88851692SkullcandyAudífonos",
+    "nombre": "Bluetooth Crusher Anc Noise Cancelling",
+    "precio": "Black193.990"
+  },
+  {
+    "sku": "88851047ProlineAudífonos",
+    "nombre": "Proline Alpha Pro Noise",
+    "precio": "Cancelling325.590"
+  },
+  {
+    "sku": "Audífonos",
+    "nombre": "In",
+    "precio": "Ear"
+  },
+  {
+    "sku": "88839883IfrogzAud*fono",
+    "nombre": "Bluetooth AirTime Pro",
+    "precio": "Negro115.790"
+  },
+  {
+    "sku": "88842990HuaweiAud*fono",
+    "nombre": "Bluetooth FreeBuds PRO TWS",
+    "precio": "Silver192.590"
+  },
+  {
+    "sku": "88843322HuaweiAud*fono",
+    "nombre": "Bluetooth FreeBuds TWS 4i Silver Noice",
+    "precio": "Cancelling150.990"
+  },
+  {
+    "sku": "88834273SonyAud*fono",
+    "nombre": "Bluetooth In Ear 1000XM3",
+    "precio": "TWS190.190"
+  },
+  {
+    "sku": "88835235SkullcandyAud*fono",
+    "nombre": "Bluetooth Indy TWS",
+    "precio": "Negro335.790"
+  },
+  {
+    "sku": "88836829SkullcandyAud*fono",
+    "nombre": "Bluetooth JIB+",
+    "precio": "Negro111.490"
+  },
+  {
+    "sku": "88836305SkullcandyAud*fono",
+    "nombre": "Bluetooth Sesh",
+    "precio": "Negro223.890"
+  },
+  {
+    "sku": "88831621Altec",
+    "nombre": "LansingAud*fono Bluetooth Sport",
+    "precio": "BT/WP19.990"
+  },
+  {
+    "sku": "88838316SonyAud*fono",
+    "nombre": "Bluetooth XB700 TWS",
+    "precio": "Negro159.994"
+  },
+  {
+    "sku": "88839713SkullcandyAud*fono",
+    "nombre": "In ear TWS Indy ANC",
+    "precio": "Negro253.994"
+  },
+  {
+    "sku": "88839712SkullcandyAud*fono",
+    "nombre": "In ear TWS JIB True",
+    "precio": "Negro417.490"
+  },
+  {
+    "sku": "8883624322NAud*fonos",
+    "nombre": "Bluetooth TWS",
+    "precio": "BeFree112.090"
+  },
+  {
+    "sku": "8882850022NAud*fonos",
+    "nombre": "Bluetooth TWS",
+    "precio": "Leech112.290"
+  },
+  {
+    "sku": "88843115SamsungAud*fonos",
+    "nombre": "In Ear TWS Galaxy Buds2",
+    "precio": "Negros199.990"
+  },
+  {
+    "sku": "88848215SkullcandyAud*fonos",
+    "nombre": "Indy Evo True Wireless -",
+    "precio": "Mint217.994"
+  },
+  {
+    "sku": "88838354PanasonicAudifono",
+    "nombre": "In Ear Negro RZ-S300 Bluetooth",
+    "precio": "TWS238.214"
+  },
+  {
+    "sku": "88824845PhilipsAudifono",
+    "nombre": "SHE3595",
+    "precio": "Azul12.990"
+  },
+  {
+    "sku": "88835232SkullcandyAudifonos",
+    "nombre": "Ink'd Plus",
+    "precio": "Negro/Gris17.590"
+  },
+  {
+    "sku": "88835233SkullcandyAudifonos",
+    "nombre": "Ink'd Plus",
+    "precio": "Negro/Rojo27.490"
+  },
+  {
+    "sku": "88848214SkullcandyAudífono",
+    "nombre": "Bluetooth Sesh Evo TWS Bleach",
+    "precio": "Blue517.994"
+  },
+  {
+    "sku": "88843969SonyAudífono",
+    "nombre": "Bluetooth WF-C500 TWS",
+    "precio": "Negro128.990"
+  },
+  {
+    "sku": "8883005422NAudífono",
+    "nombre": "Deportivo Bluetooth",
+    "precio": "Raptor16.990"
+  },
+  {
+    "sku": "88840472SkullcandyAudífono",
+    "nombre": "In ear TWS Indy Evo",
+    "precio": "Negro317.994"
+  },
+  {
+    "sku": "8882519522NAudífonos",
+    "nombre": "Auxiliar 3.5mm 10E09+MCY01 Negro",
+    "precio": "22N22.690"
+  },
+  {
+    "sku": "88851706Altec",
+    "nombre": "LansingAudífonos Auxiliar 3.5mm Metal Wired MZX-147 Negro",
+    "precio": "Altec"
+  },
+  {
+    "sku": "Lansing",
+    "nombre": "",
+    "precio": "Lansing"
+  },
+  {
+    "sku": "12.990",
+    "nombre": "",
+    "precio": "12.990"
+  },
+  {
+    "sku": "88847886BlikAudífonos",
+    "nombre": "Inalámbricos Air600 Negro",
+    "precio": "Blik79.594"
+  },
+  {
+    "sku": "88851241SkullcandyAudífonos",
+    "nombre": "Inalámbricos Grind Negro",
+    "precio": "Skullkandy225.390"
+  },
+  {
+    "sku": "88850273GeniusAudífonos",
+    "nombre": "Inalámbricos HS-M905 Negro",
+    "precio": "Genius76.594"
+  },
+  {
+    "sku": "88851239SkullcandyAudífonos",
+    "nombre": "Inalámbricos Indy Evo  Azul",
+    "precio": "Skullkandy126.994"
+  },
+  {
+    "sku": "88851238SkullcandyAudífonos",
+    "nombre": "Inalámbricos Indy Evo Rojo",
+    "precio": "Skullkandy229.994"
+  },
+  {
+    "sku": "88851843SkullcandyAudífonos",
+    "nombre": "Inalámbricos Rail Negro",
+    "precio": "Skullcandy138.994"
+  },
+  {
+    "sku": "88842051SkullcandyAudífonos",
+    "nombre": "Inalámbricos Sesh Evo Negro Skullcandy",
+    "precio": "Noise"
+  },
+  {
+    "sku": "Cancelling",
+    "nombre": "",
+    "precio": "Cancelling"
+  },
+  {
+    "sku": "622.794",
+    "nombre": "",
+    "precio": "622.794"
+  },
+  {
+    "sku": "88851841SkullcandyAudífonos",
+    "nombre": "Inalámbricos Smokin Negro",
+    "precio": "Skullcandy114.490"
+  },
+  {
+    "sku": "88834229SonyAudífonos",
+    "nombre": "MDR-EX110APB",
+    "precio": "Negro17.190"
+  },
+  {
+    "sku": "Banda",
+    "nombre": "Ancha",
+    "precio": "Móvil"
+  },
+  {
+    "sku": "88833031HuaweiMiFi",
+    "nombre": "Huawei E5573FS 4G Prepago",
+    "precio": "WOM1324.990"
+  },
+  {
+    "sku": "88837882HuaweiMiFi",
+    "nombre": "Huawei E5576-508 4G Prepago",
+    "precio": "WOM424.990"
+  },
+  {
+    "sku": "88851734ZTEMifi",
+    "nombre": "",
+    "precio": "MF937125.794"
+  },
+  {
+    "sku": "88837500ZTEMifi",
+    "nombre": "ZTE MF920U Prepago",
+    "precio": "WOM824.990"
+  },
+  {
+    "sku": "Página",
+    "nombre": "",
+    "precio": "3"
+  },
+  {
+    "sku": "",
+    "nombre": "",
+    "precio": ""
+  },
+  {
+    "sku": "Lista",
+    "nombre": "actualizada el 27 de Julio de 2024",
+    "precio": "21:35"
+  },
+  {
+    "sku": "Listado",
+    "nombre": "de Productos de Segunda",
+    "precio": "Selección"
+  },
+  {
+    "sku": "SKUMarcaNombreStockPrecio",
+    "nombre": "",
+    "precio": "Unitario"
+  },
+  {
+    "sku": "c/Iva",
+    "nombre": "",
+    "precio": "c/Iva"
+  },
+  {
+    "sku": "88841077ZTEMifi",
+    "nombre": "ZTE MF920u1 4G Prepago",
+    "precio": "WOM424.990"
+  },
+  {
+    "sku": "88838926HuaweiRouter",
+    "nombre": "Huawei B311",
+    "precio": "WOM143.290"
+  },
+  {
+    "sku": "Bases",
+    "nombre": "",
+    "precio": "Notebooks"
+  },
+  {
+    "sku": "88826020DeepcoolBase",
+    "nombre": "Notebook N8 Black con 4 puertos",
+    "precio": "USB112.990"
+  },
+  {
+    "sku": "Baterías",
+    "nombre": "de",
+    "precio": "Notebooks"
+  },
+  {
+    "sku": "88836416PCF",
+    "nombre": "OEMBater*a Alternativa para Notebook Acer Aspire 2930",
+    "precio": "4330"
+  },
+  {
+    "sku": "4520",
+    "nombre": "",
+    "precio": "4520"
+  },
+  {
+    "sku": "17.690",
+    "nombre": "",
+    "precio": "17.690"
+  },
+  {
+    "sku": "88830146PCF",
+    "nombre": "OEMBater*a alternativa para Notebook HP Envy Pavillion",
+    "precio": "ProBook"
+  },
+  {
+    "sku": "Series",
+    "nombre": "",
+    "precio": "Series"
+  },
+  {
+    "sku": "27.690",
+    "nombre": "",
+    "precio": "27.690"
+  },
+  {
+    "sku": "88830155PCF",
+    "nombre": "OEMBatería alternativa para Notebook Lenovo S300 S400",
+    "precio": "S405"
+  },
+  {
+    "sku": "series",
+    "nombre": "",
+    "precio": "series"
+  },
+  {
+    "sku": "210.190",
+    "nombre": "",
+    "precio": "210.190"
+  },
+  {
+    "sku": "Bolsos",
+    "nombre": "",
+    "precio": "Tablets"
+  },
+  {
+    "sku": "88842940TargusMica",
+    "nombre": "Protectora para iPad* 10.2\" (8th and 7th",
+    "precio": "gen.)19.594"
+  },
+  {
+    "sku": "CPU",
+    "nombre": "AMD",
+    "precio": "sAM4"
+  },
+  {
+    "sku": "88841990AMDCPU",
+    "nombre": "A6-9500E - Gráficos Integrados",
+    "precio": "(AM4)221.890"
+  },
+  {
+    "sku": "CPU",
+    "nombre": "Intel",
+    "precio": "s1700"
+  },
+  {
+    "sku": "88845170IntelCPU",
+    "nombre": "Intel Celeron* Processor G6900",
+    "precio": "(s1700)134.090"
+  },
+  {
+    "sku": "Cables",
+    "nombre": "Adaptadores",
+    "precio": "Audio"
+  },
+  {
+    "sku": "88823265SpektraCable",
+    "nombre": "Audio Est*reo 3xRCA a 3xRCA -",
+    "precio": "3mts1954"
+  },
+  {
+    "sku": "88823277SpektraCable",
+    "nombre": "Audio Est*reo XLR Macho a 2xXLR Hembra -",
+    "precio": "3mts62.290"
+  },
+  {
+    "sku": "88840149SpektraCable",
+    "nombre": "Audio Estéreo 2 XLR hembra a XLR macho -",
+    "precio": "3mts202.790"
+  },
+  {
+    "sku": "Cables",
+    "nombre": "Adaptadores",
+    "precio": "Video"
+  },
+  {
+    "sku": "88822986SpektraAdaptador",
+    "nombre": "Micro HDMI a",
+    "precio": "HDMI-M1490"
+  },
+  {
+    "sku": "88830671SpektraAdaptador",
+    "nombre": "Mini Display Port macho a HDMI",
+    "precio": "Hembra13.890"
+  },
+  {
+    "sku": "88822971SpektraAdaptador",
+    "nombre": "Mini HDMI a",
+    "precio": "VGA22.094"
+  },
+  {
+    "sku": "88844566SatechiAdaptador",
+    "nombre": "USB-C a HDMI 4K",
+    "precio": "plateado116.390"
+  },
+  {
+    "sku": "8881280SpektraAdaptador",
+    "nombre": "de DVI-I macho a VGA",
+    "precio": "hembra11.790"
+  },
+  {
+    "sku": "88841219KensingtonCable",
+    "nombre": "DisplayPort 1.4 de 1.8",
+    "precio": "metros17.390"
+  },
+  {
+    "sku": "8888955SpektraCable",
+    "nombre": "Extensión para Monitor VGA m/h 15 pins ",
+    "precio": "3.0m41.794"
+  },
+  {
+    "sku": "88829444Tripp",
+    "nombre": "LiteCable HDMI de velocidad estándar, 1080p, video digital",
+    "precio": "con"
+  },
+  {
+    "sku": "audio",
+    "nombre": "(M/M), Negro,",
+    "precio": "15.2m"
+  },
+  {
+    "sku": "119.990",
+    "nombre": "",
+    "precio": "119.990"
+  },
+  {
+    "sku": "8888954SpektraCable",
+    "nombre": "Monitor VGA m/m 15 pins",
+    "precio": "1.8m22.790"
+  },
+  {
+    "sku": "8888952SpektraCable",
+    "nombre": "Video DVI-I macho / VGA macho",
+    "precio": "1.8m22.790"
+  },
+  {
+    "sku": "Cables",
+    "nombre": "Datos /",
+    "precio": "USB"
+  },
+  {
+    "sku": "88844569SatechiAdaptador",
+    "nombre": "USB-C a USB",
+    "precio": "A15.390"
+  },
+  {
+    "sku": "8888958SpektraCable",
+    "nombre": "SATA (Serial-Ata) Datos (7P)",
+    "precio": "90*1534"
+  },
+  {
+    "sku": "Cables",
+    "nombre": "",
+    "precio": "Desktop"
+  },
+  {
+    "sku": "88839946SilverstoneExtensor",
+    "nombre": "Cable 1 x 8 pines (4+4) EPS",
+    "precio": "Blanco/Negro12.690"
+  },
+  {
+    "sku": "Cables",
+    "nombre": "",
+    "precio": "Poder"
+  },
+  {
+    "sku": "8888777SpektraCable",
+    "nombre": "Poder Tipo 8 -",
+    "precio": "1.8m1990"
+  },
+  {
+    "sku": "Cables",
+    "nombre": "y",
+    "precio": "Adaptadores"
+  },
+  {
+    "sku": "88819980AppleAdaptador",
+    "nombre": " Lightning a 30-pin - Cable 20",
+    "precio": "cm119.190"
+  },
+  {
+    "sku": "88837676AppleAdaptador",
+    "nombre": "de Mini DisplayPort a",
+    "precio": "VGA117.990"
+  },
+  {
+    "sku": "88837678AppleAdaptador",
+    "nombre": "multipuerto de USB-C a",
+    "precio": "VGA137.590"
+  },
+  {
+    "sku": "Calculadoras",
+    "nombre": "",
+    "precio": "Calculadoras"
+  },
+  {
+    "sku": "88844016CasioCalculadora",
+    "nombre": "Científica",
+    "precio": "FX-570LAPLUS2-W-DT27.390"
+  },
+  {
+    "sku": "Candados",
+    "nombre": "y",
+    "precio": "Seguridad"
+  },
+  {
+    "sku": "88851033KensingtonCable",
+    "nombre": "MicroSaver® 2.0 Twin para notebook",
+    "precio": "2,4mts117.290"
+  },
+  {
+    "sku": "88839813SpektraCandado",
+    "nombre": "Notebook Combinación de 3 Dígitos Tipo USB",
+    "precio": "Lock14.490"
+  },
+  {
+    "sku": "88822128KensingtonCandado",
+    "nombre": "Notebook MiniSaver para Ultrabook con llave",
+    "precio": "1,8"
+  },
+  {
+    "sku": "mts",
+    "nombre": "",
+    "precio": "mts"
+  },
+  {
+    "sku": "318.190",
+    "nombre": "",
+    "precio": "318.190"
+  },
+  {
+    "sku": "Página",
+    "nombre": "",
+    "precio": "4"
+  },
+  {
+    "sku": "",
+    "nombre": "",
+    "precio": ""
+  },
+  {
+    "sku": "Lista",
+    "nombre": "actualizada el 27 de Julio de 2024",
+    "precio": "21:35"
+  },
+  {
+    "sku": "Listado",
+    "nombre": "de Productos de Segunda",
+    "precio": "Selección"
+  },
+  {
+    "sku": "SKUMarcaNombreStockPrecio",
+    "nombre": "",
+    "precio": "Unitario"
+  },
+  {
+    "sku": "c/Iva",
+    "nombre": "",
+    "precio": "c/Iva"
+  },
+  {
+    "sku": "88849624KensingtonCandado",
+    "nombre": "Notebook NanoSaver™ para Ultrabook",
+    "precio": "(1,8mts)317.790"
+  },
+  {
+    "sku": "Carcasas",
+    "nombre": "",
+    "precio": "Carcasas"
+  },
+  {
+    "sku": "88833731MobileHUTCarcasa",
+    "nombre": "Y7 2019",
+    "precio": "Negra11.990"
+  },
+  {
+    "sku": "88833729MobileHUTCarcasa",
+    "nombre": "Y9 2019",
+    "precio": "Negra1594"
+  },
+  {
+    "sku": "Cargadores",
+    "nombre": "",
+    "precio": "Notebooks"
+  },
+  {
+    "sku": "88840643SpektraCargador",
+    "nombre": "alternativo para Notebook Samsung, 40W,",
+    "precio": "19V,"
+  },
+  {
+    "sku": "2.1A,",
+    "nombre": "conector",
+    "precio": "5.5mm*3mm"
+  },
+  {
+    "sku": "15.190",
+    "nombre": "",
+    "precio": "15.190"
+  },
+  {
+    "sku": "88846537SpektraCargador",
+    "nombre": "alternativo para Notebook Samsung, 60W,",
+    "precio": "19V,"
+  },
+  {
+    "sku": "3.16A,",
+    "nombre": "conector 5.5mm*3mm C/Cable de",
+    "precio": "Poder"
+  },
+  {
+    "sku": "25.990",
+    "nombre": "",
+    "precio": "25.990"
+  },
+  {
+    "sku": "88840639SpektraCargador",
+    "nombre": "alternativo para notebook Lenovo, 45W,",
+    "precio": "20V,"
+  },
+  {
+    "sku": "2.25A,",
+    "nombre": "conector",
+    "precio": "4mm*1.7"
+  },
+  {
+    "sku": "16.390",
+    "nombre": "",
+    "precio": "16.390"
+  },
+  {
+    "sku": "Cartuchos",
+    "nombre": "de Tinta y Botellas para",
+    "precio": "Impresoras"
+  },
+  {
+    "sku": "88820550BrotherBotella",
+    "nombre": "de Tinta Original Brother BT5001C",
+    "precio": "Cyan45.690"
+  },
+  {
+    "sku": "88840441CanonBotella",
+    "nombre": "de Tinta Original Canon GI-11 Negro",
+    "precio": "Pigmentado17.290"
+  },
+  {
+    "sku": "88842909CanonBotella",
+    "nombre": "de Tinta Original Canon GI-16",
+    "precio": "Negro118.990"
+  },
+  {
+    "sku": "8888118CanonCartucho",
+    "nombre": "de Tinta Original Canon CL-211",
+    "precio": "Color210.590"
+  },
+  {
+    "sku": "88821103CanonCartucho",
+    "nombre": "de Tinta Original Canon CL-54",
+    "precio": "Color15.202"
+  },
+  {
+    "sku": "88814027CanonCartucho",
+    "nombre": "de Tinta Original Canon CLI-151",
+    "precio": "Magenta14.990"
+  },
+  {
+    "sku": "88840438CanonCombo",
+    "nombre": "Cabezal Negro + Botella Tinta Negra (BH-10 +",
+    "precio": "GI-"
+  },
+  {
+    "sku": "10BK",
+    "nombre": "",
+    "precio": ")"
+  },
+  {
+    "sku": "119.690",
+    "nombre": "",
+    "precio": "119.690"
+  },
+  {
+    "sku": "Cartuchos",
+    "nombre": "de Tinta y Botellas para",
+    "precio": "Plotter"
+  },
+  {
+    "sku": "88838918EpsonBotella",
+    "nombre": "de Tinta Original Epson T49H100 Negro /",
+    "precio": "140ml116.390"
+  },
+  {
+    "sku": "88839052HPCartucho",
+    "nombre": "de Tinta Original HP  712 Cyan /",
+    "precio": "29ml123.990"
+  },
+  {
+    "sku": "Cintas",
+    "nombre": "",
+    "precio": "(Rotuladoras)"
+  },
+  {
+    "sku": "88823136BrotherCinta",
+    "nombre": "blanca-Texto negro  DK-1209 62mm / 29mm",
+    "precio": "800"
+  },
+  {
+    "sku": "etiquetas",
+    "nombre": "(Ancho /",
+    "precio": "Largo)"
+  },
+  {
+    "sku": "110.990",
+    "nombre": "",
+    "precio": "110.990"
+  },
+  {
+    "sku": "88823137BrotherCinta",
+    "nombre": "blanca-Texto negro  DK-2243  102mm / 30,48m",
+    "precio": "(Ancho"
+  },
+  {
+    "sku": "/",
+    "nombre": "",
+    "precio": "Largo)"
+  },
+  {
+    "sku": "110.194",
+    "nombre": "",
+    "precio": "110.194"
+  },
+  {
+    "sku": "88823135BrotherCinta",
+    "nombre": "blanca-Texto negro DK-2205 62mm / 30,48m (Ancho",
+    "precio": "/"
+  },
+  {
+    "sku": "Largo)",
+    "nombre": "",
+    "precio": "Largo)"
+  },
+  {
+    "sku": "18.590",
+    "nombre": "",
+    "precio": "18.590"
+  },
+  {
+    "sku": "8881356BrotherCinta",
+    "nombre": "blanca-Texto negro TZe-231 12mm / 8m (Ancho",
+    "precio": "/"
+  },
+  {
+    "sku": "Largo)",
+    "nombre": "",
+    "precio": "Largo)"
+  },
+  {
+    "sku": "18.190",
+    "nombre": "",
+    "precio": "18.190"
+  },
+  {
+    "sku": "88826241BrotherCinta",
+    "nombre": "fondo blanco-Texto Rojo/Negro DK-2251 62mm /",
+    "precio": "15,2m"
+  },
+  {
+    "sku": "(Ancho",
+    "nombre": "/",
+    "precio": "Largo)"
+  },
+  {
+    "sku": "112.190",
+    "nombre": "",
+    "precio": "112.190"
+  },
+  {
+    "sku": "Combos",
+    "nombre": "Teclado /",
+    "precio": "Mouse"
+  },
+  {
+    "sku": "88847620HPCombo",
+    "nombre": "HP Teclado + Mouse 230 Wireless",
+    "precio": "Black113.190"
+  },
+  {
+    "sku": "88837121SpektraCombo",
+    "nombre": "Teclado + Mouse  USB Negro",
+    "precio": "KM-50023.990"
+  },
+  {
+    "sku": "88820234LogitechCombo",
+    "nombre": "Teclado + Mouse MK120 USB",
+    "precio": "Negro18.890"
+  },
+  {
+    "sku": "8886537MicrosoftCombo",
+    "nombre": "Teclado + Mouse Optical Desktop 600",
+    "precio": "USB112.790"
+  },
+  {
+    "sku": "88835740GeniusCombo",
+    "nombre": "Teclado + Mouse Smart KM-8100 2.4 GHz",
+    "precio": "Wireless"
+  },
+  {
+    "sku": "Negro",
+    "nombre": "",
+    "precio": "Negro"
+  },
+  {
+    "sku": "38.690",
+    "nombre": "",
+    "precio": "38.690"
+  },
+  {
+    "sku": "Componentes",
+    "nombre": "",
+    "precio": "Electrónicos"
+  },
+  {
+    "sku": "88827662International",
+    "nombre": "",
+    "precio": "88827662International"
+  },
+  {
+    "sku": "Rectifier",
+    "nombre": "",
+    "precio": "Rectifier"
+  },
+  {
+    "sku": "MOSFET",
+    "nombre": "de Potencia Canal-N 60V 30A - IRLB8721PbF",
+    "precio": "-"
+  },
+  {
+    "sku": "2pcs",
+    "nombre": "",
+    "precio": "2pcs"
+  },
+  {
+    "sku": "11.194",
+    "nombre": "",
+    "precio": "11.194"
+  },
+  {
+    "sku": "88827600TRACO",
+    "nombre": "",
+    "precio": "88827600TRACO"
+  },
+  {
+    "sku": "POWER",
+    "nombre": "",
+    "precio": "POWER"
+  },
+  {
+    "sku": "Mini",
+    "nombre": "Conversor DC/DC Buck 5V",
+    "precio": "1A14.194"
+  },
+  {
+    "sku": "Conectores",
+    "nombre": "de",
+    "precio": "Red"
+  },
+  {
+    "sku": "88832142HellermannTyto",
+    "nombre": "",
+    "precio": "88832142HellermannTyto"
+  },
+  {
+    "sku": "n",
+    "nombre": "",
+    "precio": "n"
+  },
+  {
+    "sku": "Angulo",
+    "nombre": "externo minicanal  40X30mm",
+    "precio": "CE40321289"
+  },
+  {
+    "sku": "88832148HellermannTyto",
+    "nombre": "",
+    "precio": "88832148HellermannTyto"
+  },
+  {
+    "sku": "n",
+    "nombre": "",
+    "precio": "n"
+  },
+  {
+    "sku": "Cruva",
+    "nombre": "plana 90º Minicanal 40X30mm",
+    "precio": "CP40351289"
+  },
+  {
+    "sku": "88832147HellermannTyto",
+    "nombre": "",
+    "precio": "88832147HellermannTyto"
+  },
+  {
+    "sku": "n",
+    "nombre": "",
+    "precio": "n"
+  },
+  {
+    "sku": "Unión",
+    "nombre": "T plana Minicanal 40X30mm",
+    "precio": "CT40341294"
+  },
+  {
+    "sku": "Desktop",
+    "nombre": "",
+    "precio": "Desktop"
+  },
+  {
+    "sku": "Página",
+    "nombre": "",
+    "precio": "5"
+  },
+  {
+    "sku": "",
+    "nombre": "",
+    "precio": ""
+  },
+  {
+    "sku": "Lista",
+    "nombre": "actualizada el 27 de Julio de 2024",
+    "precio": "21:35"
+  },
+  {
+    "sku": "Listado",
+    "nombre": "de Productos de Segunda",
+    "precio": "Selección"
+  },
+  {
+    "sku": "SKUMarcaNombreStockPrecio",
+    "nombre": "",
+    "precio": "Unitario"
+  },
+  {
+    "sku": "c/Iva",
+    "nombre": "",
+    "precio": "c/Iva"
+  },
+  {
+    "sku": "88839918GearDesktop",
+    "nombre": "AMD Ryzen 3 2200G 8GB",
+    "precio": "1TB1181.690"
+  },
+  {
+    "sku": "88845594GearDesktop",
+    "nombre": "AMD Ryzen 3 4350G 8GB 240GB SSD",
+    "precio": "DVDRW2239.814"
+  },
+  {
+    "sku": "88847509GearDesktop",
+    "nombre": "AMD Ryzen 5 5600G 8GB 240GB SSD",
+    "precio": "DVDRW1299.990"
+  },
+  {
+    "sku": "88844142GearDesktop",
+    "nombre": "AMD Ryzen 5 5600G 8GB 250GB",
+    "precio": "SSD1311.214"
+  },
+  {
+    "sku": "88844310GearDesktop",
+    "nombre": "AMD Ryzen 7 5700G 8GB",
+    "precio": "1TB1399.354"
+  },
+  {
+    "sku": "88846144GearDesktop",
+    "nombre": "Gamer Blue Demon Intel Core i3-10105 8GB",
+    "precio": "1TB"
+  },
+  {
+    "sku": "NVIDIA",
+    "nombre": "GTX 1050Ti",
+    "precio": "4GB"
+  },
+  {
+    "sku": "1339.990",
+    "nombre": "",
+    "precio": "1339.990"
+  },
+  {
+    "sku": "88846074GearDesktop",
+    "nombre": "Gamer Blue Demon Intel Core i5-11400 8GB",
+    "precio": "1TB"
+  },
+  {
+    "sku": "NVIDIA",
+    "nombre": "",
+    "precio": "GTX1650"
+  },
+  {
+    "sku": "1381.790",
+    "nombre": "",
+    "precio": "1381.790"
+  },
+  {
+    "sku": "88846337GearDesktop",
+    "nombre": "Gamer Red Demon AMD Ryzen 5 5600 8GB",
+    "precio": "1TB"
+  },
+  {
+    "sku": "NVIDIA",
+    "nombre": "GTX 1650",
+    "precio": "4GB"
+  },
+  {
+    "sku": "2546.174",
+    "nombre": "",
+    "precio": "2546.174"
+  },
+  {
+    "sku": "88847121GearDesktop",
+    "nombre": "Gamer Red Demon AMD Ryzen 5 5600X",
+    "precio": "8GB"
+  },
+  {
+    "sku": "240GB",
+    "nombre": "SSD NVIDIA PH-GTX 1650",
+    "precio": "4GB"
+  },
+  {
+    "sku": "1557.934",
+    "nombre": "",
+    "precio": "1557.934"
+  },
+  {
+    "sku": "88844994GearDesktop",
+    "nombre": "Gamer Red Demon Intel Core i3-10100F",
+    "precio": "8GB"
+  },
+  {
+    "sku": "240GB",
+    "nombre": "SSD NVIDIA GTX1650",
+    "precio": "Phoenix"
+  },
+  {
+    "sku": "3504.174",
+    "nombre": "",
+    "precio": "3504.174"
+  },
+  {
+    "sku": "88850665GearDesktop",
+    "nombre": "Gear Intel Celeron G6900 8GB 480GB",
+    "precio": "SSD"
+  },
+  {
+    "sku": "Windows",
+    "nombre": "",
+    "precio": "11"
+  },
+  {
+    "sku": "1189.990",
+    "nombre": "",
+    "precio": "1189.990"
+  },
+  {
+    "sku": "88834978GearDesktop",
+    "nombre": "Intel Celeron J4005 4GB",
+    "precio": "1TB299.990"
+  },
+  {
+    "sku": "88848816GearDesktop",
+    "nombre": "Intel Core i7-13700 8GB 480GB",
+    "precio": "SSD1528.990"
+  },
+  {
+    "sku": "Enclosure",
+    "nombre": "",
+    "precio": "(Cofres)"
+  },
+  {
+    "sku": "88812614SpektraAdaptador",
+    "nombre": "USB a Sata",
+    "precio": "IDE13.494"
+  },
+  {
+    "sku": "8881071PCF",
+    "nombre": "OEMCofre 2.5\" HD SATA / USB ",
+    "precio": "GRY-2530A15.190"
+  },
+  {
+    "sku": "8888300ThermaltakeCofre",
+    "nombre": "2.5\" SATA / USB",
+    "precio": "ST0018Z26.190"
+  },
+  {
+    "sku": "Extensores",
+    "nombre": "de",
+    "precio": "Red"
+  },
+  {
+    "sku": "88838419TPLinkExtensor",
+    "nombre": "PLC (v*a el*ctrica) AV600",
+    "precio": "TL-PA4010KIT116.790"
+  },
+  {
+    "sku": "88824485TPLinkExtensor",
+    "nombre": "PLC (v*a el*ctrica) AV600",
+    "precio": "TL-PA4010KIT118.594"
+  },
+  {
+    "sku": "88849097TendaExtensor",
+    "nombre": "PLC (vía Red Eléctrica) AV1000 PH3",
+    "precio": "Kit126.890"
+  },
+  {
+    "sku": "88834659TPLinkExtensor",
+    "nombre": "PLC (vía Red Eléctrica) AV600 + WiFi N300",
+    "precio": "TL-"
+  },
+  {
+    "sku": "4220KIT",
+    "nombre": "",
+    "precio": "4220KIT"
+  },
+  {
+    "sku": "128.990",
+    "nombre": "",
+    "precio": "128.990"
+  },
+  {
+    "sku": "88838231TendaRepetidor",
+    "nombre": "WiFi AC1200",
+    "precio": "A18113.390"
+  },
+  {
+    "sku": "88824489TPLinkRepetidor",
+    "nombre": "WiFi AC1750",
+    "precio": "RE450129.590"
+  },
+  {
+    "sku": "88837764DLinkRepetidor",
+    "nombre": "WiFi Dual Band AC1200",
+    "precio": "DAP-1610313.390"
+  },
+  {
+    "sku": "88818954TPLinkRepetidor",
+    "nombre": "WiFi N300",
+    "precio": "TL-WA850RE611.390"
+  },
+  {
+    "sku": "Gabinetes",
+    "nombre": "con",
+    "precio": "Fuente"
+  },
+  {
+    "sku": "88840600SpektraGabinete",
+    "nombre": "ATX 230W Leeroy",
+    "precio": "2801215.390"
+  },
+  {
+    "sku": "88837588SpektraGabinete",
+    "nombre": "ATX 500W Leeroy",
+    "precio": "V3.0113.990"
+  },
+  {
+    "sku": "88840599SpektraGabinete",
+    "nombre": "mATX 230W Slim One",
+    "precio": "S602120.990"
+  },
+  {
+    "sku": "88839270GearGabinete",
+    "nombre": "mATX 450w Gear",
+    "precio": "ONE112.990"
+  },
+  {
+    "sku": "88837590SpektraGabinete",
+    "nombre": "mATX 500W Slim One",
+    "precio": "V3.0119.990"
+  },
+  {
+    "sku": "88824092GearGabinete",
+    "nombre": "mATX S610 ",
+    "precio": "SLIM349.990"
+  },
+  {
+    "sku": "Gabinetes",
+    "nombre": "sin",
+    "precio": "Fuente"
+  },
+  {
+    "sku": "88836559InWinGabinete",
+    "nombre": "ATX Alice",
+    "precio": "Grey325.990"
+  },
+  {
+    "sku": "88844098GamdiasGabinete",
+    "nombre": "ATX Apollo M2 Elite RGB / 2 Ventiladores",
+    "precio": "200mm"
+  },
+  {
+    "sku": "ARGB",
+    "nombre": "",
+    "precio": "ARGB"
+  },
+  {
+    "sku": "235.090",
+    "nombre": "",
+    "precio": "235.090"
+  },
+  {
+    "sku": "88839774GamdiasGabinete",
+    "nombre": "ATX Argus E2",
+    "precio": "Elite122.990"
+  },
+  {
+    "sku": "88844096GamdiasGabinete",
+    "nombre": "ATX Athena M1 Elite RGB / 3 Ventiladores",
+    "precio": "ARGB145.490"
+  },
+  {
+    "sku": "88838348Gear",
+    "nombre": "GamerGabinete ATX",
+    "precio": "Blackstar420.390"
+  },
+  {
+    "sku": "88838350Gear",
+    "nombre": "GamerGabinete ATX Fearless (RGB) / 2 Fans",
+    "precio": "LED427.390"
+  },
+  {
+    "sku": "88832479DeepcoolGabinete",
+    "nombre": "E-ATX",
+    "precio": "E-Shield220.390"
+  },
+  {
+    "sku": "88834839ApexgamingGabinete",
+    "nombre": "E-ATX Herm*s",
+    "precio": "S1120.190"
+  },
+  {
+    "sku": "88820584CorsairGabinete",
+    "nombre": "EATX Case Obsidian Series",
+    "precio": "750D189.990"
+  },
+  {
+    "sku": "88832480DeepcoolGabinete",
+    "nombre": "EATX New Ark",
+    "precio": "90SE171.191"
+  },
+  {
+    "sku": "Página",
+    "nombre": "",
+    "precio": "6"
+  },
+  {
+    "sku": "",
+    "nombre": "",
+    "precio": ""
+  },
+  {
+    "sku": "Lista",
+    "nombre": "actualizada el 27 de Julio de 2024",
+    "precio": "21:35"
+  },
+  {
+    "sku": "Listado",
+    "nombre": "de Productos de Segunda",
+    "precio": "Selección"
+  },
+  {
+    "sku": "SKUMarcaNombreStockPrecio",
+    "nombre": "",
+    "precio": "Unitario"
+  },
+  {
+    "sku": "c/Iva",
+    "nombre": "",
+    "precio": "c/Iva"
+  },
+  {
+    "sku": "88832956DeepcoolGabinete",
+    "nombre": "mATX Matrexx",
+    "precio": "30312.790"
+  },
+  {
+    "sku": "Gavetas",
+    "nombre": "de",
+    "precio": "Dinero"
+  },
+  {
+    "sku": "888235743nstarGaveta",
+    "nombre": "de dinero CD350 RJ11 Negra",
+    "precio": "41x42cm533.590"
+  },
+  {
+    "sku": "88830936SpektraGaveta",
+    "nombre": "de dinero GV-4948 RJ11 Negra",
+    "precio": "48.5x47.5x16.5630.090"
+  },
+  {
+    "sku": "Grabadoras",
+    "nombre": "de",
+    "precio": "voz"
+  },
+  {
+    "sku": "88836466PhilipsGrabadora",
+    "nombre": "de voz digital DVT4110 3Mic 8GB",
+    "precio": "(ampliable)146.090"
+  },
+  {
+    "sku": "Hub",
+    "nombre": "",
+    "precio": "USB"
+  },
+  {
+    "sku": "88822532TranscendHUB",
+    "nombre": "USB 3.0 4",
+    "precio": "puertos19.990"
+  },
+  {
+    "sku": "Hubs",
+    "nombre": "y Kits Smart",
+    "precio": "Home"
+  },
+  {
+    "sku": "88825328WinkHub",
+    "nombre": "Smart Home Wink Wi-Fi ZigBee",
+    "precio": "Zwave126.890"
+  },
+  {
+    "sku": "Iluminación",
+    "nombre": "y Enchufes",
+    "precio": "Inteligentes"
+  },
+  {
+    "sku": "88832082LumimanLampara",
+    "nombre": "inteligente RGB controlada desde",
+    "precio": "Smartphone116.890"
+  },
+  {
+    "sku": "Iluminación",
+    "nombre": "y",
+    "precio": "efectos"
+  },
+  {
+    "sku": "88832393Chauvet",
+    "nombre": "DJCable de extensi*n de datos DMX 5",
+    "precio": "metros115.190"
+  },
+  {
+    "sku": "88833782Chauvet",
+    "nombre": "DJChauvet DJ SlimPAR 56 LED",
+    "precio": "Uplight145.990"
+  },
+  {
+    "sku": "Impresoras",
+    "nombre": "",
+    "precio": "3D"
+  },
+  {
+    "sku": "88841644CrealityImpresora",
+    "nombre": "3D",
+    "precio": "CR-301280.990"
+  },
+  {
+    "sku": "88829748CrealityImpresora",
+    "nombre": "3D Ender",
+    "precio": "3365.790"
+  },
+  {
+    "sku": "88841646CrealityImpresora",
+    "nombre": "3D Ender 5",
+    "precio": "Pro1269.990"
+  },
+  {
+    "sku": "Impresoras",
+    "nombre": "",
+    "precio": "Laser"
+  },
+  {
+    "sku": "88829649OkidataImpresora",
+    "nombre": "L*ser Blanco y Negro ES5112dn Ethernet /",
+    "precio": "D*plex192.690"
+  },
+  {
+    "sku": "88822447BrotherImpresora",
+    "nombre": "L*ser Blanco y Negro HL-L6400DW Ethernet /",
+    "precio": "WiFi"
+  },
+  {
+    "sku": "/",
+    "nombre": "",
+    "precio": "D*plex"
+  },
+  {
+    "sku": "1232.890",
+    "nombre": "",
+    "precio": "1232.890"
+  },
+  {
+    "sku": "88824544HPImpresora",
+    "nombre": "L*ser Blanco y Negro LaserJet Pro M203DW WiFi",
+    "precio": "/"
+  },
+  {
+    "sku": "Ethernet",
+    "nombre": "/",
+    "precio": "D*plex"
+  },
+  {
+    "sku": "175.590",
+    "nombre": "",
+    "precio": "175.590"
+  },
+  {
+    "sku": "88817464SamsungImpresora",
+    "nombre": "L*ser Color SL-C1810W WiFi / Ethernet /",
+    "precio": "NFC374.990"
+  },
+  {
+    "sku": "88851065BrotherImpresora",
+    "nombre": "Laser Blanco y Negro HLL-6415DW / Ethernet",
+    "precio": "/"
+  },
+  {
+    "sku": "WIFI",
+    "nombre": "/",
+    "precio": "NFC"
+  },
+  {
+    "sku": "1267.990",
+    "nombre": "",
+    "precio": "1267.990"
+  },
+  {
+    "sku": "88846134BrotherImpresora",
+    "nombre": "Led Color HL-L3270CDW WiFi / Ethernet / D*plex",
+    "precio": "/"
+  },
+  {
+    "sku": "NFC",
+    "nombre": "",
+    "precio": "NFC"
+  },
+  {
+    "sku": "1178.990",
+    "nombre": "",
+    "precio": "1178.990"
+  },
+  {
+    "sku": "Impresoras",
+    "nombre": "",
+    "precio": "Tinta"
+  },
+  {
+    "sku": "88844156CanonImpresora",
+    "nombre": "Fotogr*fica Tinta Continua Pixma G510*",
+    "precio": "WiFi-"
+  },
+  {
+    "sku": "Direct",
+    "nombre": "",
+    "precio": "Direct"
+  },
+  {
+    "sku": "1114.190",
+    "nombre": "",
+    "precio": "1114.190"
+  },
+  {
+    "sku": "88817017CanonImpresora",
+    "nombre": "Fotográfica Tinta A3+ Pixma IX-6810 WiFi",
+    "precio": "/"
+  },
+  {
+    "sku": "Ethernet",
+    "nombre": "",
+    "precio": "Ethernet"
+  },
+  {
+    "sku": "579.990",
+    "nombre": "",
+    "precio": "579.990"
+  },
+  {
+    "sku": "88847555CanonImpresora",
+    "nombre": "Fotográfica Tinta Pixma TS701A WiFi /",
+    "precio": "Dúplex138.790"
+  },
+  {
+    "sku": "88835327CanonImpresora",
+    "nombre": "Tinta Continua Blanco y Negro Pixma",
+    "precio": "GM2010"
+  },
+  {
+    "sku": "WiFi",
+    "nombre": "",
+    "precio": "WiFi"
+  },
+  {
+    "sku": "271.994",
+    "nombre": "",
+    "precio": "271.994"
+  },
+  {
+    "sku": "Juegos",
+    "nombre": "de",
+    "precio": "Consola"
+  },
+  {
+    "sku": "88843411EA",
+    "nombre": "GamesFIFA 22",
+    "precio": "PS4126.590"
+  },
+  {
+    "sku": "88843413EA",
+    "nombre": "GamesFIFA 22 Xbox ",
+    "precio": "One129.590"
+  },
+  {
+    "sku": "88846656EA",
+    "nombre": "GamesFIFA 23",
+    "precio": "PS4117.754"
+  },
+  {
+    "sku": "Láminas",
+    "nombre": "",
+    "precio": "protectoras"
+  },
+  {
+    "sku": "88823918LeafLámina",
+    "nombre": "Vidrio Templado Samsung Galaxy",
+    "precio": "J121.990"
+  },
+  {
+    "sku": "88833746MobileHUTLámina",
+    "nombre": "protectora Huawei",
+    "precio": "P301294"
+  },
+  {
+    "sku": "88833736MobileHUTLámina",
+    "nombre": "protectora Samsung",
+    "precio": "A301294"
+  },
+  {
+    "sku": "Memorias",
+    "nombre": "",
+    "precio": "Notebook"
+  },
+  {
+    "sku": "88843429G.SkillMemoria",
+    "nombre": "Notebook 8GB SoDimm DDR4 2666MHz",
+    "precio": "Ripjaws113.590"
+  },
+  {
+    "sku": "Memorias",
+    "nombre": "",
+    "precio": "PC"
+  },
+  {
+    "sku": "88840036CorsairDDR4",
+    "nombre": "16GB (2x8GB) 3600MHz Vengeance LPX",
+    "precio": "(Black)143.090"
+  },
+  {
+    "sku": "Memorias",
+    "nombre": "",
+    "precio": "Servers"
+  },
+  {
+    "sku": "88836369HPEMemoria",
+    "nombre": "Server 16GB DDR4-2666MHz",
+    "precio": "(ML30-MicroServer)2103.790"
+  },
+  {
+    "sku": "Página",
+    "nombre": "",
+    "precio": "7"
+  },
+  {
+    "sku": "",
+    "nombre": "",
+    "precio": ""
+  },
+  {
+    "sku": "Lista",
+    "nombre": "actualizada el 27 de Julio de 2024",
+    "precio": "21:35"
+  },
+  {
+    "sku": "Listado",
+    "nombre": "de Productos de Segunda",
+    "precio": "Selección"
+  },
+  {
+    "sku": "SKUMarcaNombreStockPrecio",
+    "nombre": "",
+    "precio": "Unitario"
+  },
+  {
+    "sku": "c/Iva",
+    "nombre": "",
+    "precio": "c/Iva"
+  },
+  {
+    "sku": "Micrófonos",
+    "nombre": "",
+    "precio": "PC"
+  },
+  {
+    "sku": "88837670SpektraMicr*fono",
+    "nombre": "Jack",
+    "precio": "3.5mm42.394"
+  },
+  {
+    "sku": "Micrófonos",
+    "nombre": "",
+    "precio": "Reuniones"
+  },
+  {
+    "sku": "88850935JabraMicrófono",
+    "nombre": "Speak 750",
+    "precio": "MS1170.290"
+  },
+  {
+    "sku": "Monitores",
+    "nombre": "",
+    "precio": "Monitores"
+  },
+  {
+    "sku": "88828125GearMonitor",
+    "nombre": "18,5\" M185G HD",
+    "precio": "HDMI131.169"
+  },
+  {
+    "sku": "88831220AsusMonitor",
+    "nombre": "21,5\" Full HD, Panel TN, 60Hz",
+    "precio": "(VP228HE)159.990"
+  },
+  {
+    "sku": "88827946SamsungMonitor",
+    "nombre": "34\" Curvo, UWQHD, Panel VA, 100Hz,",
+    "precio": "FreeSync"
+  },
+  {
+    "sku": "(21:9)",
+    "nombre": "",
+    "precio": "(LC34H890WJLXZS)"
+  },
+  {
+    "sku": "1368.890",
+    "nombre": "",
+    "precio": "1368.890"
+  },
+  {
+    "sku": "88847960LGMonitor",
+    "nombre": "34'' UltraWide - WFHD, Panel IPS, 100Hz,",
+    "precio": "FreeSync,"
+  },
+  {
+    "sku": "HDR400",
+    "nombre": "(USB-C) (21:9) (Pivoteable)",
+    "precio": "(34WQ680-W)"
+  },
+  {
+    "sku": "1344.990",
+    "nombre": "",
+    "precio": "1344.990"
+  },
+  {
+    "sku": "88842535AcerMonitor",
+    "nombre": "Gamer 23,8\" Full HD, Panel IPS,",
+    "precio": "165Hz(2ms),"
+  },
+  {
+    "sku": "FreeSync",
+    "nombre": "(EG240Y Pbi",
+    "precio": "PX)"
+  },
+  {
+    "sku": "1137.890",
+    "nombre": "",
+    "precio": "1137.890"
+  },
+  {
+    "sku": "Mouses",
+    "nombre": "",
+    "precio": "Mouses"
+  },
+  {
+    "sku": "88838206MicrosoftMouse",
+    "nombre": "Bluetooth",
+    "precio": "Black18.648"
+  },
+  {
+    "sku": "88850397TrustMouse",
+    "nombre": "Gamer GXT924 YBAR+ LED RGB USB",
+    "precio": "Negro220.994"
+  },
+  {
+    "sku": "Multifuncionales",
+    "nombre": "",
+    "precio": "Laser"
+  },
+  {
+    "sku": "88825440BrotherMultifuncional",
+    "nombre": "L*ser Blanco y Negro  DCP-L5650DN",
+    "precio": "Ethernet"
+  },
+  {
+    "sku": "/",
+    "nombre": "Full",
+    "precio": "D*plex"
+  },
+  {
+    "sku": "2264.190",
+    "nombre": "",
+    "precio": "2264.190"
+  },
+  {
+    "sku": "88846057BrotherMultifuncional",
+    "nombre": "L*ser Blanco y Negro  DCP-L5650DN",
+    "precio": "Ethernet"
+  },
+  {
+    "sku": "/",
+    "nombre": "Full",
+    "precio": "D*plex"
+  },
+  {
+    "sku": "1239.890",
+    "nombre": "",
+    "precio": "1239.890"
+  },
+  {
+    "sku": "88825403BrotherMultifuncional",
+    "nombre": "Laser Blanco y Negro MFC-L6900DW WiFi",
+    "precio": "/"
+  },
+  {
+    "sku": "Ethernet",
+    "nombre": "/ Full D*plex /",
+    "precio": "NFC"
+  },
+  {
+    "sku": "1430.490",
+    "nombre": "",
+    "precio": "1430.490"
+  },
+  {
+    "sku": "88834906BrotherMultifuncional",
+    "nombre": "Laser Color MFC-L8900CDW WiFi / Ethernet",
+    "precio": "/"
+  },
+  {
+    "sku": "Full",
+    "nombre": "D*plex /",
+    "precio": "NFC"
+  },
+  {
+    "sku": "1452.990",
+    "nombre": "",
+    "precio": "1452.990"
+  },
+  {
+    "sku": "88831609BrotherMultifuncional",
+    "nombre": "Led Color DCP-L3551CDW WiFi-Direct",
+    "precio": "/"
+  },
+  {
+    "sku": "Ethernet",
+    "nombre": "/ D*plex /",
+    "precio": "ADF"
+  },
+  {
+    "sku": "1273.390",
+    "nombre": "",
+    "precio": "1273.390"
+  },
+  {
+    "sku": "88818872BrotherMultifuncional",
+    "nombre": "Láser Blanco y Negro DCP-L2540DW",
+    "precio": "WiFi-"
+  },
+  {
+    "sku": "Direct",
+    "nombre": "/ Ethernet / Dúplex / ADF",
+    "precio": ""
+  },
+  {
+    "sku": "3116.390",
+    "nombre": "",
+    "precio": "3116.390"
+  },
+  {
+    "sku": "88818876BrotherMultifuncional",
+    "nombre": "Láser Blanco y Negro MFC-L2700DW WiFi",
+    "precio": "/"
+  },
+  {
+    "sku": "Ethernet",
+    "nombre": "/",
+    "precio": "Dúplex"
+  },
+  {
+    "sku": "1150.290",
+    "nombre": "",
+    "precio": "1150.290"
+  },
+  {
+    "sku": "Multifuncionales",
+    "nombre": "",
+    "precio": "Tinta"
+  },
+  {
+    "sku": "88844157CanonMultifuncional",
+    "nombre": " Fotogr*fica Tinta Continua Pixma G610",
+    "precio": "WiFi-"
+  },
+  {
+    "sku": "Direct",
+    "nombre": "",
+    "precio": "Direct"
+  },
+  {
+    "sku": "1111.190",
+    "nombre": "",
+    "precio": "1111.190"
+  },
+  {
+    "sku": "88845834BrotherMultifuncional",
+    "nombre": "Tinta A3 MFC-J6740DW WiFi-Direct /",
+    "precio": "Ethernet"
+  },
+  {
+    "sku": "/",
+    "nombre": "",
+    "precio": "D*plex"
+  },
+  {
+    "sku": "8194.890",
+    "nombre": "",
+    "precio": "8194.890"
+  },
+  {
+    "sku": "88840097BrotherMultifuncional",
+    "nombre": "Tinta Continua  InkBenefit Tank",
+    "precio": "DCP-T220374.994"
+  },
+  {
+    "sku": "88831618EpsonMultifuncional",
+    "nombre": "Tinta Continua Color  EcoTank",
+    "precio": "L3110163.269"
+  },
+  {
+    "sku": "88848594EpsonMultifuncional",
+    "nombre": "Tinta Continua EcoTank L5590 WiFi /",
+    "precio": "Ethernet1167.990"
+  },
+  {
+    "sku": "88828843BrotherMultifuncional",
+    "nombre": "Tinta Continua InkBenefit Tank",
+    "precio": "DCP-T510W"
+  },
+  {
+    "sku": "WiFi",
+    "nombre": "",
+    "precio": "WiFi"
+  },
+  {
+    "sku": "183.990",
+    "nombre": "",
+    "precio": "183.990"
+  },
+  {
+    "sku": "88840309BrotherMultifuncional",
+    "nombre": "Tinta Continua InkBenefit Tank",
+    "precio": "DCP-T520W"
+  },
+  {
+    "sku": "WiFi-Direct",
+    "nombre": "",
+    "precio": "WiFi-Direct"
+  },
+  {
+    "sku": "192.890",
+    "nombre": "",
+    "precio": "192.890"
+  },
+  {
+    "sku": "88840310BrotherMultifuncional",
+    "nombre": "Tinta Continua InkBenefit Tank",
+    "precio": "DCP-T720DW"
+  },
+  {
+    "sku": "WiFi-Direct",
+    "nombre": "",
+    "precio": "WiFi-Direct"
+  },
+  {
+    "sku": "2131.990",
+    "nombre": "",
+    "precio": "2131.990"
+  },
+  {
+    "sku": "88828841BrotherMultifuncional",
+    "nombre": "Tinta Continua InkBenefit Tank",
+    "precio": "MFC-T910DW"
+  },
+  {
+    "sku": "WiFi",
+    "nombre": "/ Ethernet / D*plex /",
+    "precio": "Fax"
+  },
+  {
+    "sku": "5134.634",
+    "nombre": "",
+    "precio": "5134.634"
+  },
+  {
+    "sku": "88829271HPMultifuncional",
+    "nombre": "Tinta Continua InkTank",
+    "precio": "315164.990"
+  },
+  {
+    "sku": "88842907CanonMultifuncional",
+    "nombre": "Tinta Continua Maxify GX6010 WiFi /",
+    "precio": "Ethernet5174.990"
+  },
+  {
+    "sku": "88842908CanonMultifuncional",
+    "nombre": "Tinta Continua Maxify GX7010 WiFi /",
+    "precio": "Ethernet1194.490"
+  },
+  {
+    "sku": "88840433CanonMultifuncional",
+    "nombre": "Tinta Continua Pixma G2160 Navy",
+    "precio": "Blue452.990"
+  },
+  {
+    "sku": "88850260CanonMultifuncional",
+    "nombre": "Tinta Continua Pixma",
+    "precio": "G2170182.194"
+  },
+  {
+    "sku": "88839623CanonMultifuncional",
+    "nombre": "Tinta Continua Pixma G3110",
+    "precio": "WiFi190.190"
+  },
+  {
+    "sku": "88840434CanonMultifuncional",
+    "nombre": "Tinta Continua Pixma G3160 Navy Blue",
+    "precio": "WiFi1105.890"
+  },
+  {
+    "sku": "Página",
+    "nombre": "",
+    "precio": "8"
+  },
+  {
+    "sku": "",
+    "nombre": "",
+    "precio": ""
+  },
+  {
+    "sku": "Lista",
+    "nombre": "actualizada el 27 de Julio de 2024",
+    "precio": "21:35"
+  },
+  {
+    "sku": "Listado",
+    "nombre": "de Productos de Segunda",
+    "precio": "Selección"
+  },
+  {
+    "sku": "SKUMarcaNombreStockPrecio",
+    "nombre": "",
+    "precio": "Unitario"
+  },
+  {
+    "sku": "c/Iva",
+    "nombre": "",
+    "precio": "c/Iva"
+  },
+  {
+    "sku": "88850261CanonMultifuncional",
+    "nombre": "Tinta Continua Pixma G3170",
+    "precio": "WiFi1103.690"
+  },
+  {
+    "sku": "88836125CanonMultifuncional",
+    "nombre": "Tinta Continua Pixma G6010 Ethernet / WiFi",
+    "precio": "/"
+  },
+  {
+    "sku": "Dúplex",
+    "nombre": "",
+    "precio": "Dúplex"
+  },
+  {
+    "sku": "172.090",
+    "nombre": "",
+    "precio": "172.090"
+  },
+  {
+    "sku": "88849086HPMultifuncional",
+    "nombre": "Tinta Continua Smart Tank",
+    "precio": "520178.990"
+  },
+  {
+    "sku": "88848534HPMultifuncional",
+    "nombre": "Tinta Continua Smart Tank 580 ",
+    "precio": "WiFi277.994"
+  },
+  {
+    "sku": "88835175HPMultifuncional",
+    "nombre": "Tinta Continua SmartTank 530 WiFi /",
+    "precio": "ADF198.994"
+  },
+  {
+    "sku": "Notebooks",
+    "nombre": "",
+    "precio": "Tradicionales"
+  },
+  {
+    "sku": "88842282AppleMacBook",
+    "nombre": "Pro 13\" (Chip M1 CPU 8 núcleos GPU 8",
+    "precio": "núcleos,"
+  },
+  {
+    "sku": "8GB",
+    "nombre": "RAM, 256GB SSD) - Color",
+    "precio": "Plata"
+  },
+  {
+    "sku": "1766.290",
+    "nombre": "",
+    "precio": "1766.290"
+  },
+  {
+    "sku": "88841354HPNotebook",
+    "nombre": "14.0\" HD Intel Core i3-1115G4 4GB RAM +",
+    "precio": "16GB"
+  },
+  {
+    "sku": "Optane",
+    "nombre": "256GB SSD Windows 11 Natural Silver",
+    "precio": "14-dq2025la"
+  },
+  {
+    "sku": "1336.890",
+    "nombre": "",
+    "precio": "1336.890"
+  },
+  {
+    "sku": "88845029HPNotebook",
+    "nombre": "15.6\" HD Ryzen 3-4300U 4GB 256GB",
+    "precio": "SSD"
+  },
+  {
+    "sku": "Windows",
+    "nombre": "11 15-ef1015la Natural",
+    "precio": "Silver"
+  },
+  {
+    "sku": "1314.274",
+    "nombre": "",
+    "precio": "1314.274"
+  },
+  {
+    "sku": "88839137HPNotebook",
+    "nombre": "240 G7 14\" HD Intel Core i3-1005G1 4GB",
+    "precio": "1TB"
+  },
+  {
+    "sku": "Windows",
+    "nombre": "",
+    "precio": "10"
+  },
+  {
+    "sku": "1287.814",
+    "nombre": "",
+    "precio": "1287.814"
+  },
+  {
+    "sku": "88838857HPNotebook",
+    "nombre": "240 G7 14\" HD Intel Core i3-1005G1 4GB",
+    "precio": "1TB"
+  },
+  {
+    "sku": "Windows",
+    "nombre": "",
+    "precio": "10"
+  },
+  {
+    "sku": "1252.990",
+    "nombre": "",
+    "precio": "1252.990"
+  },
+  {
+    "sku": "88838020HPNotebook",
+    "nombre": "240 G7 14.0\" HD Celeron N4020 4GB",
+    "precio": "500GB1145.490"
+  },
+  {
+    "sku": "88843505HPNotebook",
+    "nombre": "240 G8 14.0\" HD Celeron N4020 4GB",
+    "precio": "500GB"
+  },
+  {
+    "sku": "Windows",
+    "nombre": "",
+    "precio": "10"
+  },
+  {
+    "sku": "1167.994",
+    "nombre": "",
+    "precio": "1167.994"
+  },
+  {
+    "sku": "88827426HPNotebook",
+    "nombre": "250 G6 15.6\" HD Intel i3-6006U 8GB 1TB",
+    "precio": "AMD"
+  },
+  {
+    "sku": "Radeon",
+    "nombre": "2GB Windows",
+    "precio": "10"
+  },
+  {
+    "sku": "1207.390",
+    "nombre": "",
+    "precio": "1207.390"
+  },
+  {
+    "sku": "88837285HPNotebook",
+    "nombre": "2en1 Pavilion 14\" HD Intel i3-8145U 4GB",
+    "precio": "256GB"
+  },
+  {
+    "sku": "SSD",
+    "nombre": "Windows 10 Touch Natural Silver",
+    "precio": "14-dh0025la"
+  },
+  {
+    "sku": "1336.990",
+    "nombre": "",
+    "precio": "1336.990"
+  },
+  {
+    "sku": "88836866DellNotebook",
+    "nombre": "Dell Inspiron 14\" HD Intel i3-1005G1 4GB",
+    "precio": "1TB"
+  },
+  {
+    "sku": "Windows",
+    "nombre": "",
+    "precio": "10"
+  },
+  {
+    "sku": "1257.814",
+    "nombre": "",
+    "precio": "1257.814"
+  },
+  {
+    "sku": "88852059SamsungNotebook",
+    "nombre": "Galaxy Book4 Intel Core 5 -120U 15,6\" FHD",
+    "precio": "8GB"
+  },
+  {
+    "sku": "512GB",
+    "nombre": "SSD Windows 11",
+    "precio": "Silver"
+  },
+  {
+    "sku": "1490.691",
+    "nombre": "",
+    "precio": "1490.691"
+  },
+  {
+    "sku": "88842048AcerNotebook",
+    "nombre": "Gamer Nitro 5 Intel i5-10300H NVIDIA GTX",
+    "precio": "1650"
+  },
+  {
+    "sku": "4GB",
+    "nombre": "15.6\" FHD 144Hz 16GB 512GB SSD Windows 10",
+    "precio": "Negro"
+  },
+  {
+    "sku": "1479.990",
+    "nombre": "",
+    "precio": "1479.990"
+  },
+  {
+    "sku": "88839253GearNotebook",
+    "nombre": "Iris 14\" FHD Intel Core i3-1005G1 8GB 256GB",
+    "precio": "SSD"
+  },
+  {
+    "sku": "Windows",
+    "nombre": "10",
+    "precio": "Grey"
+  },
+  {
+    "sku": "15149.990",
+    "nombre": "",
+    "precio": "15149.990"
+  },
+  {
+    "sku": "88842003GearNotebook",
+    "nombre": "Iris 14\" FHD Intel Core i3-1005G1 8GB 256GB",
+    "precio": "SSD"
+  },
+  {
+    "sku": "Windows",
+    "nombre": "10",
+    "precio": "Grey"
+  },
+  {
+    "sku": "9149.990",
+    "nombre": "",
+    "precio": "9149.990"
+  },
+  {
+    "sku": "88842004GearNotebook",
+    "nombre": "Lotus 14\" FHD Celeron N3350 4GB 128GB",
+    "precio": "SSD"
+  },
+  {
+    "sku": "Free",
+    "nombre": "DOS",
+    "precio": "Gray"
+  },
+  {
+    "sku": "1596.990",
+    "nombre": "",
+    "precio": "1596.990"
+  },
+  {
+    "sku": "88842000GearNotebook",
+    "nombre": "Orchid 14\" FHD Intel Core i5-1035G1 8GB",
+    "precio": "256GB"
+  },
+  {
+    "sku": "SSD",
+    "nombre": "Free DOS",
+    "precio": "Grey"
+  },
+  {
+    "sku": "8268.490",
+    "nombre": "",
+    "precio": "8268.490"
+  },
+  {
+    "sku": "88845780GearNotebook",
+    "nombre": "Orchid 14.1\" FHD Intel i5-1135G7 8GB 256GB",
+    "precio": "SSD"
+  },
+  {
+    "sku": "Windows",
+    "nombre": "10 ",
+    "precio": ""
+  },
+  {
+    "sku": "13299.990",
+    "nombre": "",
+    "precio": "13299.990"
+  },
+  {
+    "sku": "Otros",
+    "nombre": "Smart Home",
+    "precio": "(Domótica)"
+  },
+  {
+    "sku": "88845718DolphinRobot",
+    "nombre": "limpia piscina Dolphin",
+    "precio": "E201598.194"
+  },
+  {
+    "sku": "POS",
+    "nombre": "",
+    "precio": "Accesorios"
+  },
+  {
+    "sku": "88845765SumUpLector",
+    "nombre": "de tarjetas SumUp",
+    "precio": "Solo124.990"
+  },
+  {
+    "sku": "POS",
+    "nombre": "",
+    "precio": "Impresoras"
+  },
+  {
+    "sku": "88842275HPImpresora",
+    "nombre": "POS T*rmica HP 4AK33AA",
+    "precio": "USB/Serial190.490"
+  },
+  {
+    "sku": "88842276HPImpresora",
+    "nombre": "POS Térmica  One Prime USB",
+    "precio": "Type-C159.290"
+  },
+  {
+    "sku": "888414573nstarPOS",
+    "nombre": "impresora t*rmica port*til Bluetooth/USB 80mm",
+    "precio": "de"
+  },
+  {
+    "sku": "recibos",
+    "nombre": "y etiquetas",
+    "precio": "PPT305BT"
+  },
+  {
+    "sku": "184.026",
+    "nombre": "",
+    "precio": "184.026"
+  },
+  {
+    "sku": "Parlantes",
+    "nombre": "",
+    "precio": "PC"
+  },
+  {
+    "sku": "88847640GeniusParlante",
+    "nombre": "PC Genius SP-Q160 ||",
+    "precio": "Azul14.794"
+  },
+  {
+    "sku": "88847642GeniusParlante",
+    "nombre": "PC Genius SP-Q180 ||",
+    "precio": "Gris13.954"
+  },
+  {
+    "sku": "8882722022NParlante",
+    "nombre": "PC OWN-SP",
+    "precio": "2W13.990"
+  },
+  {
+    "sku": "88828991LogitechParlante",
+    "nombre": "PC Z207",
+    "precio": "Bluetooth320.990"
+  },
+  {
+    "sku": "88827906LogitechParlante",
+    "nombre": "PC Z337",
+    "precio": "Bluetooth134.590"
+  },
+  {
+    "sku": "Página",
+    "nombre": "",
+    "precio": "9"
+  },
+  {
+    "sku": "",
+    "nombre": "",
+    "precio": ""
+  },
+  {
+    "sku": "Lista",
+    "nombre": "actualizada el 27 de Julio de 2024",
+    "precio": "21:35"
+  },
+  {
+    "sku": "Listado",
+    "nombre": "de Productos de Segunda",
+    "precio": "Selección"
+  },
+  {
+    "sku": "SKUMarcaNombreStockPrecio",
+    "nombre": "",
+    "precio": "Unitario"
+  },
+  {
+    "sku": "c/Iva",
+    "nombre": "",
+    "precio": "c/Iva"
+  },
+  {
+    "sku": "88848339GeniusParlante",
+    "nombre": "Pc SP-HF180 2.0 USB",
+    "precio": "Negro24.974"
+  },
+  {
+    "sku": "88827978RCAParlante",
+    "nombre": "RCA",
+    "precio": "S-300SW24.990"
+  },
+  {
+    "sku": "88827982RCAParlante",
+    "nombre": "RCA",
+    "precio": "S-650SW19.990"
+  },
+  {
+    "sku": "88818195LogitechParlante",
+    "nombre": "S150",
+    "precio": "USB14.290"
+  },
+  {
+    "sku": "88821652GeniusParlante",
+    "nombre": "Subwoofer 2.1 SW",
+    "precio": "37517.390"
+  },
+  {
+    "sku": "88811480LogitechParlante",
+    "nombre": "Subwoofer Z211",
+    "precio": "USB414.990"
+  },
+  {
+    "sku": "88835744GeniusParlantes",
+    "nombre": "Subwoofer 2.1 SW-HF 1205",
+    "precio": "II123.290"
+  },
+  {
+    "sku": "Parlantes",
+    "nombre": "",
+    "precio": "Portátiles"
+  },
+  {
+    "sku": "88833396pohopaParlante",
+    "nombre": "port*til con forma de",
+    "precio": "lampara223.390"
+  },
+  {
+    "sku": "Placas",
+    "nombre": "",
+    "precio": "Madres"
+  },
+  {
+    "sku": "88835302AsusM/B",
+    "nombre": "+ CPU Intel Celeron Prime",
+    "precio": "J4005I-C134.990"
+  },
+  {
+    "sku": "Placas",
+    "nombre": "Madres AMD",
+    "precio": "sAM5"
+  },
+  {
+    "sku": "88851496AsusM/B",
+    "nombre": "AMD A620M-A Prime",
+    "precio": "(AM5)194.990"
+  },
+  {
+    "sku": "Plastificadoras",
+    "nombre": "de",
+    "precio": "Papel"
+  },
+  {
+    "sku": "88836093SpyraPlastificadora",
+    "nombre": "de Papeles A3 / Carta / Doble Carta /",
+    "precio": "Oficio"
+  },
+  {
+    "sku": "Premier",
+    "nombre": "",
+    "precio": "340"
+  },
+  {
+    "sku": "430.490",
+    "nombre": "",
+    "precio": "430.490"
+  },
+  {
+    "sku": "88831376BluebindPlastificadora",
+    "nombre": "de Papeles A3 Profesional / Carta / Doble",
+    "precio": "Carta"
+  },
+  {
+    "sku": "/",
+    "nombre": "Oficio FGK",
+    "precio": "320"
+  },
+  {
+    "sku": "343.690",
+    "nombre": "",
+    "precio": "343.690"
+  },
+  {
+    "sku": "88827225SpyraPlastificadora",
+    "nombre": "de Papeles A4 / Carta / Oficio Premier",
+    "precio": "230117.890"
+  },
+  {
+    "sku": "88829618FellowesPlastificadora",
+    "nombre": "de Papeles A4 /Carta / Oficio",
+    "precio": "L125114.390"
+  },
+  {
+    "sku": "88847585SpyraPlastificadora",
+    "nombre": "de Papeles Carta / Oficio Lite 230",
+    "precio": "Negra216.390"
+  },
+  {
+    "sku": "88827226SpyraPlastificadora",
+    "nombre": "de Papeles Semi -industrial Metálica A3 /",
+    "precio": "Doble"
+  },
+  {
+    "sku": "Carta",
+    "nombre": "/ Oficio Black",
+    "precio": "330"
+  },
+  {
+    "sku": "354.690",
+    "nombre": "",
+    "precio": "354.690"
+  },
+  {
+    "sku": "88824570SpektraPlastificadora",
+    "nombre": "de Papeles formato A4 / Carta",
+    "precio": "Rugby38.590"
+  },
+  {
+    "sku": "88835303SpyraPlastificadora-Guillotina",
+    "nombre": "de Papeles A3 / Carta / Oficio",
+    "precio": "Trío"
+  },
+  {
+    "sku": "330",
+    "nombre": "",
+    "precio": "330"
+  },
+  {
+    "sku": "228.590",
+    "nombre": "",
+    "precio": "228.590"
+  },
+  {
+    "sku": "Plotters",
+    "nombre": "",
+    "precio": "Plotters"
+  },
+  {
+    "sku": "88839043HPPlotter",
+    "nombre": "24\" DesignJet T250 WiFi / Ethernet / USB in",
+    "precio": "ePrinter"
+  },
+  {
+    "sku": "con",
+    "nombre": "porta",
+    "precio": "rollo"
+  },
+  {
+    "sku": "1409.390",
+    "nombre": "",
+    "precio": "1409.390"
+  },
+  {
+    "sku": "Procesadores",
+    "nombre": "",
+    "precio": "Procesadores"
+  },
+  {
+    "sku": "88818906AMDAPU",
+    "nombre": "A4 7300 / Radeon R3",
+    "precio": "(FM2+)113.858"
+  },
+  {
+    "sku": "88825092IntelCPU",
+    "nombre": "Core i3-7100 3.90GHz 3MB",
+    "precio": "(1151)174.890"
+  },
+  {
+    "sku": "88826854IntelCPU",
+    "nombre": "Core i5-8600K 3.6 GHz",
+    "precio": "(1151-v2)263.290"
+  },
+  {
+    "sku": "88824864IntelCPU",
+    "nombre": "Pentium G4400 3.30GHz 3M",
+    "precio": "(1151)126.990"
+  },
+  {
+    "sku": "Proyectores",
+    "nombre": "",
+    "precio": "Proyectores"
+  },
+  {
+    "sku": "88844192GearProyector",
+    "nombre": "portátil 150 Lúmenes LED con batería WVGA",
+    "precio": "GO-"
+  },
+  {
+    "sku": "C900",
+    "nombre": "",
+    "precio": "C900"
+  },
+  {
+    "sku": "1126.990",
+    "nombre": "",
+    "precio": "1126.990"
+  },
+  {
+    "sku": "Robótica",
+    "nombre": "",
+    "precio": "Robótica"
+  },
+  {
+    "sku": "88831101Robotis",
+    "nombre": "inc.Kit Expansi*n - Dream II STEM - Nivel",
+    "precio": "5234.290"
+  },
+  {
+    "sku": "88830296DFrobotRobot",
+    "nombre": "Vortex (pack doble) - Educaci*n",
+    "precio": "STEM159.190"
+  },
+  {
+    "sku": "88826635MakeblockmBot",
+    "nombre": "Ranger Robot Kit Educativo 3-en-1 - Educaci*n",
+    "precio": "STEM283.994"
+  },
+  {
+    "sku": "Rotuladoras",
+    "nombre": "",
+    "precio": "Rotuladoras"
+  },
+  {
+    "sku": "88827437ZebraImpresora",
+    "nombre": "de Etiquetas GC420T USB /",
+    "precio": "Serial1153.990"
+  },
+  {
+    "sku": "888313453nstarImpresora",
+    "nombre": "de Etiquetas LDT104 ",
+    "precio": "USB475.590"
+  },
+  {
+    "sku": "88835667ZebraImpresora",
+    "nombre": "de Etiquetas ZD220",
+    "precio": "USB1161.190"
+  },
+  {
+    "sku": "Routers",
+    "nombre": "",
+    "precio": "Routers"
+  },
+  {
+    "sku": "88828104TPLinkRouter",
+    "nombre": "Dual Band AC1350 Archer",
+    "precio": "C60121.390"
+  },
+  {
+    "sku": "88840740DLinkRouter",
+    "nombre": "Mesh DIR-2150",
+    "precio": "AC2100127.190"
+  },
+  {
+    "sku": "88832284TPLinkRouter",
+    "nombre": "Móvil SIM 4G  Dual-Band AC750 Archer",
+    "precio": "MR200152.690"
+  },
+  {
+    "sku": "88840399DLinkRouter",
+    "nombre": "Móvil SIM 4G N300",
+    "precio": "DWR-M921554.490"
+  },
+  {
+    "sku": "Salud",
+    "nombre": "y Bienestar (Smart",
+    "precio": "Health)"
+  },
+  {
+    "sku": "Página",
+    "nombre": "",
+    "precio": "10"
+  },
+  {
+    "sku": "",
+    "nombre": "",
+    "precio": ""
+  },
+  {
+    "sku": "Lista",
+    "nombre": "actualizada el 27 de Julio de 2024",
+    "precio": "21:35"
+  },
+  {
+    "sku": "Listado",
+    "nombre": "de Productos de Segunda",
+    "precio": "Selección"
+  },
+  {
+    "sku": "SKUMarcaNombreStockPrecio",
+    "nombre": "",
+    "precio": "Unitario"
+  },
+  {
+    "sku": "c/Iva",
+    "nombre": "",
+    "precio": "c/Iva"
+  },
+  {
+    "sku": "88834244PCF",
+    "nombre": "OEMKit de medición para el tamaño de dedo del  MOTIV",
+    "precio": "RING390.490"
+  },
+  {
+    "sku": "88834577WirmelPesa",
+    "nombre": "inteligente Wifi",
+    "precio": "BS-100314.190"
+  },
+  {
+    "sku": "88837054PCF",
+    "nombre": "OEMTerm*metro infrarrojo sin",
+    "precio": "contacto512.234"
+  },
+  {
+    "sku": "Scanners",
+    "nombre": "",
+    "precio": "Scanners"
+  },
+  {
+    "sku": "88847533EpsonEscaner",
+    "nombre": "Dúplex  Workforce",
+    "precio": "DS-16301231.990"
+  },
+  {
+    "sku": "88844155IRISEscaner",
+    "nombre": "IRIScan Desk Business 6  formato",
+    "precio": "A31173.994"
+  },
+  {
+    "sku": "Scooters",
+    "nombre": "",
+    "precio": "Eléctricos"
+  },
+  {
+    "sku": "88847210SublueScooter",
+    "nombre": "Underwater Sublue Mix",
+    "precio": "Pro1329.994"
+  },
+  {
+    "sku": "Servers",
+    "nombre": "",
+    "precio": "Servers"
+  },
+  {
+    "sku": "88847321HPEServer",
+    "nombre": "ProLiant ML30 Gen10 Plus Intel® Xeon™",
+    "precio": "E-2314"
+  },
+  {
+    "sku": "2.8GHz/16GB/1TB",
+    "nombre": "",
+    "precio": "HDD"
+  },
+  {
+    "sku": "1789.990",
+    "nombre": "",
+    "precio": "1789.990"
+  },
+  {
+    "sku": "88837028HPEServer",
+    "nombre": "ProLiant ML30 Gen10Intel* Xeon?",
+    "precio": "E3-2224"
+  },
+  {
+    "sku": "3.4GHz/16GB/1TB",
+    "nombre": "",
+    "precio": "HDD"
+  },
+  {
+    "sku": "1665.990",
+    "nombre": "",
+    "precio": "1665.990"
+  },
+  {
+    "sku": "Servers",
+    "nombre": "",
+    "precio": "NAS"
+  },
+  {
+    "sku": "88821826WDServidor",
+    "nombre": "NAS Dual-Core Marvell® ARMADA® 1GB",
+    "precio": "DDR3"
+  },
+  {
+    "sku": "Ram",
+    "nombre": "- My Cloud EX2 Ultra 4TB (2",
+    "precio": "Bahías)"
+  },
+  {
+    "sku": "1232.990",
+    "nombre": "",
+    "precio": "1232.990"
+  },
+  {
+    "sku": "Sillas",
+    "nombre": "",
+    "precio": "Gamer"
+  },
+  {
+    "sku": "88837795GamdiasSilla",
+    "nombre": "Gamer Aphrodite EF1B",
+    "precio": "Black799.990"
+  },
+  {
+    "sku": "88838180GamdiasSilla",
+    "nombre": "Gamer Aphrodite EF1B",
+    "precio": "Black/Red270.160"
+  },
+  {
+    "sku": "88839574Gear",
+    "nombre": "GamerSilla Gamer Beigman V2",
+    "precio": "Black/Orange1290.990"
+  },
+  {
+    "sku": "88839569Gear",
+    "nombre": "GamerSilla Gamer Düngu V2",
+    "precio": "Black/White450.454"
+  },
+  {
+    "sku": "88839564Gear",
+    "nombre": "GamerSilla Gamer I-Tam V2 Black/Blue",
+    "precio": "(RGB)461.090"
+  },
+  {
+    "sku": "88839563Gear",
+    "nombre": "GamerSilla Gamer I-Tam V2 Black/Red",
+    "precio": "(RGB)161.090"
+  },
+  {
+    "sku": "88842224NjoyTechSilla",
+    "nombre": "Gamer Kaos",
+    "precio": "Black/Orange172.990"
+  },
+  {
+    "sku": "88839566Gear",
+    "nombre": "GamerSilla Gamer Kuden V2",
+    "precio": "Black/Blue257.990"
+  },
+  {
+    "sku": "88839565Gear",
+    "nombre": "GamerSilla Gamer Kuden V2",
+    "precio": "Black/Red548.890"
+  },
+  {
+    "sku": "88839570Gear",
+    "nombre": "GamerSilla Gamer Kuden V2",
+    "precio": "White/Pink158.190"
+  },
+  {
+    "sku": "88837945Gear",
+    "nombre": "GamerSilla Gamer Kuden",
+    "precio": "White/Pink158.190"
+  },
+  {
+    "sku": "88839572Gear",
+    "nombre": "GamerSilla Gamer Leeroy V2",
+    "precio": "Black/White156.295"
+  },
+  {
+    "sku": "88839567Gear",
+    "nombre": "GamerSilla Gamer Omilen V2",
+    "precio": "Black/Blue344.154"
+  },
+  {
+    "sku": "88837644AsusSilla",
+    "nombre": "Gamer ROG Chariot",
+    "precio": "Core1193.990"
+  },
+  {
+    "sku": "88838053NewskillSilla",
+    "nombre": "Gamer Takamikura",
+    "precio": "Black/Blue259.990"
+  },
+  {
+    "sku": "88839571Gear",
+    "nombre": "GamerSilla Gamer Wanku V2",
+    "precio": "Black/Orange849.990"
+  },
+  {
+    "sku": "88839568Gear",
+    "nombre": "GamerSilla Gamer Wanku V2",
+    "precio": "Black/Red156.390"
+  },
+  {
+    "sku": "88838276DiabloSilla",
+    "nombre": "Gamer X-Gamer",
+    "precio": "Black/Blue168.190"
+  },
+  {
+    "sku": "88838277DiabloSilla",
+    "nombre": "Gamer X-Gamer",
+    "precio": "Black/Red161.854"
+  },
+  {
+    "sku": "88834340GamdiasSilla",
+    "nombre": "Gamer Zelus E1",
+    "precio": "Black/Blue377.994"
+  },
+  {
+    "sku": "88834339GamdiasSilla",
+    "nombre": "Gamer Zelus E1",
+    "precio": "Black/Red277.890"
+  },
+  {
+    "sku": "88834645GamdiasSilla",
+    "nombre": "Gamer Zelus E1",
+    "precio": "Black/Yellow250.454"
+  },
+  {
+    "sku": "Sillas",
+    "nombre": "de",
+    "precio": "Oficina"
+  },
+  {
+    "sku": "88838720SpektraSilla",
+    "nombre": "de oficina Ergon*mica negra ",
+    "precio": "SO-350199.990"
+  },
+  {
+    "sku": "88843455SpektraSilla",
+    "nombre": "de oficina Ergon*mica negra",
+    "precio": "SO-100B-11036.714"
+  },
+  {
+    "sku": "88843458SpektraSilla",
+    "nombre": "de oficina Ergonómica negra",
+    "precio": "SO-100B-21126.090"
+  },
+  {
+    "sku": "Smart",
+    "nombre": "",
+    "precio": "TV"
+  },
+  {
+    "sku": "88829368GearSmart",
+    "nombre": "TV 43\" 5510FE Full HD",
+    "precio": "WiFi1163.990"
+  },
+  {
+    "sku": "88843047SonySmart",
+    "nombre": "TV 55X85J 55'' Ultra HD 4K WiFi",
+    "precio": "120Hz1499.990"
+  },
+  {
+    "sku": "88835529AOCSmartTV",
+    "nombre": "S5970 39\" HD",
+    "precio": "WiFi1106.790"
+  },
+  {
+    "sku": "Smartband",
+    "nombre": "",
+    "precio": "Smartband"
+  },
+  {
+    "sku": "88825657PolarPolar",
+    "nombre": "H10 Negro",
+    "precio": "M-XXL249.990"
+  },
+  {
+    "sku": "88831048XiaomiSmartband",
+    "nombre": "Xiaomi MiBand 2",
+    "precio": "Negro119.990"
+  },
+  {
+    "sku": "Página",
+    "nombre": "",
+    "precio": "11"
+  },
+  {
+    "sku": "",
+    "nombre": "",
+    "precio": ""
+  },
+  {
+    "sku": "Lista",
+    "nombre": "actualizada el 27 de Julio de 2024",
+    "precio": "21:35"
+  },
+  {
+    "sku": "Listado",
+    "nombre": "de Productos de Segunda",
+    "precio": "Selección"
+  },
+  {
+    "sku": "SKUMarcaNombreStockPrecio",
+    "nombre": "",
+    "precio": "Unitario"
+  },
+  {
+    "sku": "c/Iva",
+    "nombre": "",
+    "precio": "c/Iva"
+  },
+  {
+    "sku": "Smartphones",
+    "nombre": "",
+    "precio": "Smartphones"
+  },
+  {
+    "sku": "88845816XiaomiSmartphone",
+    "nombre": "Xiaomi 12 256GB/8GB 5G Morado",
+    "precio": "Liberado1489.990"
+  },
+  {
+    "sku": "88839601AppleiPhone",
+    "nombre": "12 Pro 128GB",
+    "precio": "Gold1516.490"
+  },
+  {
+    "sku": "88843610AppleiPhone",
+    "nombre": "13 128 GB",
+    "precio": "Azul1469.890"
+  },
+  {
+    "sku": "88843608AppleiPhone",
+    "nombre": "13 mini 128 GB",
+    "precio": "Rosa3399.890"
+  },
+  {
+    "sku": "88847230AppleiPhone",
+    "nombre": "14 128GB",
+    "precio": "Blue5549.790"
+  },
+  {
+    "sku": "88847232AppleiPhone",
+    "nombre": "14 Plus 128GB",
+    "precio": "Purple1589.690"
+  },
+  {
+    "sku": "Smartwatches",
+    "nombre": "",
+    "precio": "Smartwatches"
+  },
+  {
+    "sku": "88847234Apple41mm",
+    "nombre": "Starlight Sport Band -",
+    "precio": "Regular329.990"
+  },
+  {
+    "sku": "88847229Apple45mm",
+    "nombre": "Midnight Sport Band -",
+    "precio": "Regular329.990"
+  },
+  {
+    "sku": "88843878AppleCorrea",
+    "nombre": "deportiva verde trébol (45 mm) - Talla",
+    "precio": "única326.990"
+  },
+  {
+    "sku": "88846367SoyMomoSmartwatch",
+    "nombre": "SoyMomo Space 2",
+    "precio": "Rosado167.494"
+  },
+  {
+    "sku": "88835807SoyMomoSmartwatch",
+    "nombre": "para Niños 4G con GPS Soy Momo Space",
+    "precio": "Negro146.554"
+  },
+  {
+    "sku": "88845049SoyMomoSmartwatch",
+    "nombre": "para Niños con GPS Space Lite",
+    "precio": "Azul150.635"
+  },
+  {
+    "sku": "88845052SoyMomoSmartwatch",
+    "nombre": "para Niños con GPS Space Lite",
+    "precio": "Negro149.343"
+  },
+  {
+    "sku": "88845050SoyMomoSmartwatch",
+    "nombre": "para Niños con GPS Space Lite",
+    "precio": "Rosado449.343"
+  },
+  {
+    "sku": "88840205AppleSport",
+    "nombre": "Band Black 44mm -",
+    "precio": "Regular127.990"
+  },
+  {
+    "sku": "Soportes",
+    "nombre": "-",
+    "precio": "Proyectores"
+  },
+  {
+    "sku": "88830653SpektraSoporte",
+    "nombre": "Proyector para Pared 10 Kg - Steel",
+    "precio": "GO005R114.994"
+  },
+  {
+    "sku": "88830650SpektraSoporte",
+    "nombre": "Proyector para Techo 10 Kg - CRSteel",
+    "precio": "GO002R37.990"
+  },
+  {
+    "sku": "Switches",
+    "nombre": "",
+    "precio": "Switches"
+  },
+  {
+    "sku": "88810786TPLinkSwitch",
+    "nombre": "08b TL-SF1008D",
+    "precio": "10/10016.990"
+  },
+  {
+    "sku": "Tabletas",
+    "nombre": "",
+    "precio": "Digitalizadoras"
+  },
+  {
+    "sku": "88828724HuionTableta",
+    "nombre": "Digitalizadora Huion Inspiroy",
+    "precio": "420112.990"
+  },
+  {
+    "sku": "88828108WacomTableta",
+    "nombre": "Digitalizadora Intuos Bluetooth Medium",
+    "precio": "Negra"
+  },
+  {
+    "sku": "Wacom",
+    "nombre": "",
+    "precio": "(CTL-6100WL/K0-A)"
+  },
+  {
+    "sku": "499.990",
+    "nombre": "",
+    "precio": "499.990"
+  },
+  {
+    "sku": "88828109WacomTableta",
+    "nombre": "Digitalizadora Intuos Bluetooth Medium",
+    "precio": "Pistachio"
+  },
+  {
+    "sku": "CTL-6100WL/E0-A",
+    "nombre": "",
+    "precio": "CTL-6100WL/E0-A"
+  },
+  {
+    "sku": "292.590",
+    "nombre": "",
+    "precio": "292.590"
+  },
+  {
+    "sku": "88834610WacomTableta",
+    "nombre": "Digitalizadora Intuos Pro Small Wacom",
+    "precio": "(PTH460)1131.690"
+  },
+  {
+    "sku": "88851554WacomTableta",
+    "nombre": "Digitalizadora One Pen Display 12 Wacom",
+    "precio": "USB-C"
+  },
+  {
+    "sku": "Gen",
+    "nombre": "",
+    "precio": "2023"
+  },
+  {
+    "sku": "1278.994",
+    "nombre": "",
+    "precio": "1278.994"
+  },
+  {
+    "sku": "88851555WacomTableta",
+    "nombre": "Digitalizadora One Pen Touch Display 13T",
+    "precio": "Wacom"
+  },
+  {
+    "sku": "USB-C",
+    "nombre": "Gen",
+    "precio": "2023"
+  },
+  {
+    "sku": "1416.990",
+    "nombre": "",
+    "precio": "1416.990"
+  },
+  {
+    "sku": "Tablets",
+    "nombre": "",
+    "precio": "Tablets"
+  },
+  {
+    "sku": "88845200LenovoTablet",
+    "nombre": "M7 2GB RAM 32GB 7\" HD Wifi Iron",
+    "precio": "grey169.990"
+  },
+  {
+    "sku": "88844187GearTablet",
+    "nombre": "Space 7\" 1GB 8GB WiFi Quad Core",
+    "precio": "Android122.590"
+  },
+  {
+    "sku": "88843205LenovoTablet",
+    "nombre": "Tab M7 3rd Gen 7\" HD 2GB 32GB 4G LTE Iron",
+    "precio": "grey180.990"
+  },
+  {
+    "sku": "88851285LenovoTablet",
+    "nombre": "Yoga Tab 11 11.0\" IPS 4GB 128GB WiFi Storm",
+    "precio": "Grey1136.790"
+  },
+  {
+    "sku": "88841685AppleiPad",
+    "nombre": "Pro 11\" (3a generación, Wi-Fi + Cellular, 128GB, M1)",
+    "precio": "-"
+  },
+  {
+    "sku": "Gris",
+    "nombre": "",
+    "precio": "espacial"
+  },
+  {
+    "sku": "1689.990",
+    "nombre": "",
+    "precio": "1689.990"
+  },
+  {
+    "sku": "88843620AppleiPad",
+    "nombre": "Pro 11\" (3a generación, Wi-Fi, 128GB, M1) -",
+    "precio": "Gris"
+  },
+  {
+    "sku": "espacial",
+    "nombre": "",
+    "precio": "espacial"
+  },
+  {
+    "sku": "3649.990",
+    "nombre": "",
+    "precio": "3649.990"
+  },
+  {
+    "sku": "88843617AppleiPad",
+    "nombre": "de 10,2 pulgadas y 64 GB con Wi-Fi - Gris",
+    "precio": "espacial3286.990"
+  },
+  {
+    "sku": "88839605AppleiPad",
+    "nombre": "Air 10.9\" Wi-Fi 64GB - Sky",
+    "precio": "Blue2367.990"
+  },
+  {
+    "sku": "Tambores",
+    "nombre": "(Impresoras",
+    "precio": "Laser)"
+  },
+  {
+    "sku": "88829650OkidataTambor",
+    "nombre": "",
+    "precio": "44574320170.990"
+  },
+  {
+    "sku": "88818934BrotherTambor",
+    "nombre": "original Brother",
+    "precio": "DR-221CL199.990"
+  },
+  {
+    "sku": "Tarjetas",
+    "nombre": "Gráficas",
+    "precio": "NVIDIA"
+  },
+  {
+    "sku": "88851900AsusVideo",
+    "nombre": "NVIDIA GeForce GT1030",
+    "precio": "2GB160.990"
+  },
+  {
+    "sku": "88826690AsusVideo",
+    "nombre": "NVIDIA GeForce GT710",
+    "precio": "SL-2GD5-CSM129.488"
+  },
+  {
+    "sku": "Tarjetas",
+    "nombre": "Gráficas",
+    "precio": "Profesionales"
+  },
+  {
+    "sku": "Página",
+    "nombre": "",
+    "precio": "12"
+  },
+  {
+    "sku": "",
+    "nombre": "",
+    "precio": ""
+  },
+  {
+    "sku": "Lista",
+    "nombre": "actualizada el 27 de Julio de 2024",
+    "precio": "21:35"
+  },
+  {
+    "sku": "Listado",
+    "nombre": "de Productos de Segunda",
+    "precio": "Selección"
+  },
+  {
+    "sku": "SKUMarcaNombreStockPrecio",
+    "nombre": "",
+    "precio": "Unitario"
+  },
+  {
+    "sku": "c/Iva",
+    "nombre": "",
+    "precio": "c/Iva"
+  },
+  {
+    "sku": "88833913PNYVideo",
+    "nombre": "NVIDIA Quadro P620 2GB",
+    "precio": "GDDR51101.990"
+  },
+  {
+    "sku": "Tarjetas",
+    "nombre": "de Red /",
+    "precio": "USB"
+  },
+  {
+    "sku": "88824838TPLinkAdaptador",
+    "nombre": "USB 2.0 A Ethernet 10/100",
+    "precio": "UE20015.790"
+  },
+  {
+    "sku": "88815140TPLinkTarjeta",
+    "nombre": "de Red Interna PCI RJ45 10/100/1000",
+    "precio": "TG-326912.990"
+  },
+  {
+    "sku": "88847972DLinkTarjeta",
+    "nombre": "de Red USB WiFi Dual-Band AC1200",
+    "precio": "DWA-182111.590"
+  },
+  {
+    "sku": "Teclado",
+    "nombre": "para",
+    "precio": "Celulares"
+  },
+  {
+    "sku": "88813298SpektraTeclado",
+    "nombre": "Bluetooth Slim Aluminio para Celulares",
+    "precio": "Spektra44.490"
+  },
+  {
+    "sku": "88830223SpektraTeclado",
+    "nombre": "Bluetooth para Celular & Tablets",
+    "precio": "Spektra25.190"
+  },
+  {
+    "sku": "88846373SpektraTeclado",
+    "nombre": "Portable Bluetooth para Celular Negro",
+    "precio": "TC-2716.990"
+  },
+  {
+    "sku": "Teclados",
+    "nombre": "",
+    "precio": "Teclados"
+  },
+  {
+    "sku": "88834748ZaggFunda",
+    "nombre": "con Teclado Ingl*s para iPad",
+    "precio": "9,7\"123.289"
+  },
+  {
+    "sku": "88846499SpektraFunda",
+    "nombre": "con Teclado para iPad Pro 11\"",
+    "precio": "TF-2200113.990"
+  },
+  {
+    "sku": "88837374AppleMagic",
+    "nombre": "Keyboard para iPad Pro de 11\" (4a, 3a, 2a y",
+    "precio": "1a"
+  },
+  {
+    "sku": "generación)",
+    "nombre": "y iPad Air (5a y 4a generación) - Español -",
+    "precio": "Negro"
+  },
+  {
+    "sku": "3268.690",
+    "nombre": "",
+    "precio": "3268.690"
+  },
+  {
+    "sku": "88838375MicrosoftTeclado",
+    "nombre": "Ergonomico USB Español",
+    "precio": "Negro124.990"
+  },
+  {
+    "sku": "88812701BestLinkTeclado",
+    "nombre": "Inal*mbrico Bluetooth 3 en 1 Para Galaxy Tab",
+    "precio": "7\"19.990"
+  },
+  {
+    "sku": "88837573SpektraTeclado",
+    "nombre": "KB-700W  Multimedia Wireless",
+    "precio": "Negro152.990"
+  },
+  {
+    "sku": "88838247KensingtonTeclado",
+    "nombre": "Pro Fit Ergonomico Wireless Bluetooth",
+    "precio": "Español"
+  },
+  {
+    "sku": "Negro",
+    "nombre": "",
+    "precio": "Negro"
+  },
+  {
+    "sku": "118.390",
+    "nombre": "",
+    "precio": "118.390"
+  },
+  {
+    "sku": "88836885KensingtonTeclado",
+    "nombre": "Pro Fit® Low Profile Wireless",
+    "precio": "Español29.090"
+  },
+  {
+    "sku": "88847557GeniusTeclado",
+    "nombre": "SlimStar Q200",
+    "precio": "Blanco64.490"
+  },
+  {
+    "sku": "88847556GeniusTeclado",
+    "nombre": "SlimStar Q200",
+    "precio": "Negro34.790"
+  },
+  {
+    "sku": "Telones",
+    "nombre": "",
+    "precio": "Telones"
+  },
+  {
+    "sku": "88834818SpektraTel*n",
+    "nombre": "El*ctrico para Proyectores 4:3 de",
+    "precio": "85\"122.090"
+  },
+  {
+    "sku": "88834817SpektraTel*n",
+    "nombre": "para Proyectores 16:9 de",
+    "precio": "81\"513.990"
+  },
+  {
+    "sku": "88834814SpektraTel*n",
+    "nombre": "para Proyectores 4:3 de 72\"",
+    "precio": "C/Tr*pode114.990"
+  },
+  {
+    "sku": "88823939QuartetTelón",
+    "nombre": "Mural 2.03 X 2.03",
+    "precio": "mts.190.990"
+  },
+  {
+    "sku": "Teléfonos",
+    "nombre": "",
+    "precio": "fijos"
+  },
+  {
+    "sku": "88824962AlcatelTel*fono",
+    "nombre": "Fijo T20",
+    "precio": "Negro15.190"
+  },
+  {
+    "sku": "88824963AlcatelTel*fono",
+    "nombre": "Fijo",
+    "precio": "T5618.490"
+  },
+  {
+    "sku": "88829724PanasonicTel*fono",
+    "nombre": "Inalambrico Panasonic KX-TGK210LCW",
+    "precio": "Blanco116.890"
+  },
+  {
+    "sku": "Toners",
+    "nombre": "(Impresoras",
+    "precio": "Laser)"
+  },
+  {
+    "sku": "88833806BrotherToner",
+    "nombre": "Original Brother TN-316",
+    "precio": "Magenta142.290"
+  },
+  {
+    "sku": "88832720BrotherToner",
+    "nombre": "Original Brother TN-319",
+    "precio": "Negro149.990"
+  },
+  {
+    "sku": "88835661HPToner",
+    "nombre": "Original HP 105A Negro",
+    "precio": "Laserjet338.190"
+  },
+  {
+    "sku": "Trituradoras",
+    "nombre": "de",
+    "precio": "Papel"
+  },
+  {
+    "sku": "88822342RexelTrituradora",
+    "nombre": "de Papel  23 Litros corte tipo challa",
+    "precio": "Mercury"
+  },
+  {
+    "sku": "REX1023",
+    "nombre": "",
+    "precio": "3S"
+  },
+  {
+    "sku": "169.990",
+    "nombre": "",
+    "precio": "169.990"
+  },
+  {
+    "sku": "88828366RexelTrituradora",
+    "nombre": "de Papel  Prostyle +s/c corte tipo en tiras",
+    "precio": "7,5"
+  },
+  {
+    "sku": "Litros",
+    "nombre": "",
+    "precio": "Litros"
+  },
+  {
+    "sku": "618.990",
+    "nombre": "",
+    "precio": "618.990"
+  },
+  {
+    "sku": "88828368RexelTrituradora",
+    "nombre": "de Papel  Prostyle+7 corte tipo challa 12",
+    "precio": "Litros134.990"
+  },
+  {
+    "sku": "88822350RexelTrituradora",
+    "nombre": "de Papel 18 Litros corte tipo Challa Silencio",
+    "precio": "35WS1431.990"
+  },
+  {
+    "sku": "88824567SpektraTrituradora",
+    "nombre": "de Papel 21 Litros corte tipo",
+    "precio": "challa729.990"
+  },
+  {
+    "sku": "88843050FellowesTrituradora",
+    "nombre": "de Papel 22 Litros micro corte LX201",
+    "precio": "Negra2156.390"
+  },
+  {
+    "sku": "88832691RexelTrituradora",
+    "nombre": "de Papel 26 Litros corte tipo Challa",
+    "precio": "+130x2149.990"
+  },
+  {
+    "sku": "88835087RexelTrituradora",
+    "nombre": "de Papel 9 Litros corte Tira Momentum",
+    "precio": "S206113.390"
+  },
+  {
+    "sku": "88824566SpektraTrituradora",
+    "nombre": "de Papel para escritorio 3 Litros corte tipo",
+    "precio": "challa512.790"
+  },
+  {
+    "sku": "88822341RexelTrituradora",
+    "nombre": "de papel Alpha Home Ribbon S1 Tipo Tiras",
+    "precio": "10"
+  },
+  {
+    "sku": "Litros",
+    "nombre": "",
+    "precio": "Litros"
+  },
+  {
+    "sku": "219.990",
+    "nombre": "",
+    "precio": "219.990"
+  },
+  {
+    "sku": "Trípodes",
+    "nombre": "",
+    "precio": "Trípodes"
+  },
+  {
+    "sku": "88822695SoligorTrípode",
+    "nombre": "Soligor",
+    "precio": "WT330A17.590"
+  },
+  {
+    "sku": "Página",
+    "nombre": "",
+    "precio": "13"
+  },
+  {
+    "sku": "",
+    "nombre": "",
+    "precio": ""
+  },
+  {
+    "sku": "Lista",
+    "nombre": "actualizada el 27 de Julio de 2024",
+    "precio": "21:35"
+  },
+  {
+    "sku": "Listado",
+    "nombre": "de Productos de Segunda",
+    "precio": "Selección"
+  },
+  {
+    "sku": "SKUMarcaNombreStockPrecio",
+    "nombre": "",
+    "precio": "Unitario"
+  },
+  {
+    "sku": "c/Iva",
+    "nombre": "",
+    "precio": "c/Iva"
+  },
+  {
+    "sku": "UPS",
+    "nombre": "y",
+    "precio": "Reguladores"
+  },
+  {
+    "sku": "88840250APCPDU",
+    "nombre": "Easy Basic ZeroU / 16A / 230V / (20)C13 & (4)C19",
+    "precio": "/"
+  },
+  {
+    "sku": "IEC309",
+    "nombre": "",
+    "precio": "IEC309"
+  },
+  {
+    "sku": "182.890",
+    "nombre": "",
+    "precio": "182.890"
+  },
+  {
+    "sku": "88836101APCUPS",
+    "nombre": "1000VA/600W Easy-UPS -",
+    "precio": "Interactiva465.190"
+  },
+  {
+    "sku": "88840252APCUPS",
+    "nombre": "1500VA/1050W Easy UPS SMV / Salida Universal",
+    "precio": "-"
+  },
+  {
+    "sku": "Interactiva",
+    "nombre": "",
+    "precio": "Interactiva"
+  },
+  {
+    "sku": "1161.190",
+    "nombre": "",
+    "precio": "1161.190"
+  },
+  {
+    "sku": "88836100APCUPS",
+    "nombre": "2000VA/1600W Easy-UPS SRV -",
+    "precio": "On-Line1483.990"
+  },
+  {
+    "sku": "88835992APCUPS",
+    "nombre": "500VA/300W Easy-UPS -",
+    "precio": "Interactiva139.090"
+  },
+  {
+    "sku": "88824425CitoUPS",
+    "nombre": "750VA/375W POWER",
+    "precio": "LINE-INTERACTIVE126.990"
+  },
+  {
+    "sku": "Webcams",
+    "nombre": "",
+    "precio": "Webcams"
+  },
+  {
+    "sku": "88839906GearWebcam",
+    "nombre": "JS-290 Ultra HD 4K - Enfoque",
+    "precio": "Autom*tico234.990"
+  },
+  {
+    "sku": "88850652TrustWebcam",
+    "nombre": "Trust Tolar 1080p Full",
+    "precio": "HD113.990"
+  },
+  {
+    "sku": "Webcams",
+    "nombre": "",
+    "precio": "Reuniones"
+  },
+  {
+    "sku": "88838147JabraWebcam",
+    "nombre": "PanaCast 4K Panorámico / 3 cámaras",
+    "precio": "integradas1383.990"
+  },
+  {
+    "sku": "Página",
+    "nombre": "",
+    "precio": "14"
+  }
+]
